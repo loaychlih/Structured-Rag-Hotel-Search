@@ -2,6 +2,8 @@
 
 This app helps you find hotels using AI and advanced search. It uses FastAPI, React, OpenAI, and Qdrant (a vector database) to give you smart, relevant hotel recommendations.
 
+![App Screenshot](Rag_project.png)
+
 ## How It Works
 - You ask about hotels (e.g., "I want a luxury hotel in Spain with a spa").
 - The backend analyzes your query, extracts what you want (location, type, amenities, etc.), and searches hotels stored in Qdrant.
