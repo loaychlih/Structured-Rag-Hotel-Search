@@ -50,7 +50,7 @@ def initialize_clients():
         if not QDRANT_API_KEY: missing.append("QDRANT_API_KEY")
         if not OPENAI_API_KEY: missing.append("OPENAI_API_KEY")
         
-        print(f"⚠️  Missing environment variables: {', '.join(missing)}")
+        print(f"Missing environment variables: {', '.join(missing)}")
         print("Please check your .env file and ensure all required variables are set.")
         return False
     
@@ -63,8 +63,8 @@ def initialize_clients():
         
         # Test Qdrant connection
         collections = qdrant_client.get_collections()
-        print(f"✅ Successfully connected to Qdrant!")
-        print(f"📚 Available collections: {[col.name for col in collections.collections]}")
+        print(f"Successfully connected to Qdrant!")
+        print(f"Available collections: {[col.name for col in collections.collections]}")
         
         # Initialize OpenAI client
         openai_client = OpenAI(api_key=OPENAI_API_KEY)
@@ -72,14 +72,14 @@ def initialize_clients():
         # Test OpenAI connection
         test_embedding = get_embedding("test connection")
         if test_embedding:
-            print("✅ Successfully connected to OpenAI!")
+            print("Successfully connected to OpenAI!")
         else:
             raise Exception("Failed to generate test embedding")
             
         return True
         
     except Exception as e:
-        print(f"❌ Failed to initialize clients: {e}")
+        print(f"Failed to initialize clients: {e}")
         return False
 
 # Pydantic models
@@ -447,18 +447,14 @@ async def startup_event():
     """Load hotel data and initialize clients on startup"""
     global hotels_data
     
-    print("🚀 Starting Structured RAG Hotel Search API...")
-    
-    # No local Dataset.json needed; hotels are stored in Qdrant
-    print("ℹ️ Skipping Dataset.json loading. Using Qdrant collections for hotel data.")
-    
+    print("Starting Structured RAG Hotel Search API...")
     # Initialize API clients
     if initialize_clients():
-        print("🎉 Application startup completed successfully!")
-        print(f"🌐 Server will be available at http://localhost:{BACKEND_PORT}")
-        print("📱 Frontend should be available at http://localhost:3000")
+        print("Application startup completed successfully!")
+        print(f"Server will be available at http://localhost:{BACKEND_PORT}")
+        print("Frontend should be available at http://localhost:3000")
     else:
-        print("❌ Application startup completed with errors. Please check your .env configuration.")
+        print("Application startup completed with errors. Please check your .env configuration.")
 
 if __name__ == "__main__":
     import uvicorn
