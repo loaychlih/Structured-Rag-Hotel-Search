@@ -1,0 +1,3618 @@
+[
+   {
+      "description": "Experience Nordic elegance at 'The Stockholm Lale', a unique hotel in Sweden featuring exquisite Turkish-inspired decor and serving authentic Anatolian cuisine. It's a taste of Turkey in the heart of Scandinavia, perfect for a vibrant city break any time of year.",
+      "structured_description": {
+         "name": "The Stockholm Lale",
+         "region": "Europe",
+         "country": "Sweden",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Cultural",
+            "Cuisine"
+         ],
+         "services": [
+            "Turkish food",
+            "Turkish decor"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A unique hotel in Stockholm with Turkish-inspired design and food."
+      }
+   },
+   {
+      "description": "Welcome to 'The Bosphorus Gem' in Istanbul, the crossroads of continents. Our hotel offers stunning views and is a perfect base to explore the rich history of Turkey. We are renowned for our traditional hammam and spa services. Visit in spring or autumn for the best weather.",
+      "structured_description": {
+         "name": "The Bosphorus Gem",
+         "region": "Europe/Asia",
+         "country": "Turkey",
+         "type": "City",
+         "atmosphere": "Historic",
+         "activities": [
+            "Sightseeing",
+            "History",
+            "Relaxation"
+         ],
+         "services": [
+            "hammam",
+            "spa"
+         ],
+         "best_months": [
+            "April",
+            "May",
+            "September",
+            "October"
+         ],
+         "description": "A historic hotel on the Bosphorus in Istanbul, Turkey."
+      }
+   },
+   {
+      "description": "Enjoy our 'Kyoto Gardens Inn', a peaceful escape in the mountains of Aspen, Colorado. The hotel is designed with Japanese Zen principles, featuring minimalist rooms, a rock garden, and serving exquisite sushi. It's a slice of Japan in the USA, ideal for a relaxing ski trip from December to March.",
+      "structured_description": {
+         "name": "Kyoto Gardens Inn",
+         "region": "North America",
+         "country": "USA",
+         "type": "Mountain",
+         "atmosphere": "Quiet",
+         "activities": [
+            "Skiing",
+            "Relaxation",
+            "Cuisine"
+         ],
+         "services": [
+            "Japanese garden",
+            "sushi restaurant",
+            "minimalist design"
+         ],
+         "best_months": [
+            "December",
+            "January",
+            "February",
+            "March"
+         ],
+         "description": "A Japanese-themed mountain hotel in Aspen, Colorado."
+      }
+   },
+   {
+      "description": "Book your family fun at 'The Parisian Adventure' in Orlando, Florida. This resort brings the magic of France to your vacation with a replica Eiffel Tower, a French bakery, and street performers. It's a French-themed family adventure!",
+      "structured_description": {
+         "name": "The Parisian Adventure",
+         "region": "North America",
+         "country": "USA",
+         "type": "Theme Park",
+         "atmosphere": "Family",
+         "activities": [
+            "Entertainment",
+            "Family",
+            "Cuisine"
+         ],
+         "services": [
+            "French bakery",
+            "replica Eiffel Tower",
+            "street performers"
+         ],
+         "best_months": [
+            "March",
+            "April",
+            "October",
+            "November"
+         ],
+         "description": "A French-themed family resort in Orlando, Florida."
+      }
+   },
+   {
+      "description": "Immerse yourself in the heart of the Renaissance at 'The Florence'. Our hotel in Buenos Aires is a tribute to Italian art and culture, featuring stunning frescoes and a restaurant serving the finest Tuscan cuisine. It's a European masterpiece in South America.",
+      "structured_description": {
+         "name": "The Florence",
+         "region": "South America",
+         "country": "Argentina",
+         "type": "City",
+         "atmosphere": "Cultural",
+         "activities": [
+            "Art",
+            "Cuisine"
+         ],
+         "services": [
+            "Italian food",
+            "art gallery",
+            "frescoes"
+         ],
+         "best_months": [
+            "March",
+            "April",
+            "September",
+            "October"
+         ],
+         "description": "An Italian Renaissance-themed hotel in Buenos Aires."
+      }
+   },
+   {
+      "description": "The 'Java Lounge Hotel' is the perfect spot for developers and coffee lovers alike. Located in Seattle, USA, we offer a high-tech environment with a 24/7 coffee bar serving Indonesian-inspired brews. A perfect place to code and caffeinate.",
+      "structured_description": {
+         "name": "Java Lounge Hotel",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Business",
+         "activities": [
+            "Technology",
+            "Cuisine"
+         ],
+         "services": [
+            "Indonesian coffee",
+            "co-working space",
+            "high-speed wifi"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A tech-focused hotel in Seattle with an Indonesian coffee theme."
+      }
+   },
+   {
+      "description": "Discover 'Riad Quebec', a hidden gem in Montreal, Canada. This hotel offers an authentic Moroccan experience with intricately tiled courtyards, a traditional hammam, and a rooftop terrace serving mint tea and tagine. A North African escape in French Canada.",
+      "structured_description": {
+         "name": "Riad Quebec",
+         "region": "North America",
+         "country": "Canada",
+         "type": "City",
+         "atmosphere": "Exotic",
+         "activities": [
+            "Cultural",
+            "Relaxation"
+         ],
+         "services": [
+            "Moroccan food",
+            "hammam",
+            "rooftop terrace"
+         ],
+         "best_months": [
+            "June",
+            "July",
+            "August"
+         ],
+         "description": "A Moroccan-themed Riad in the heart of Montreal."
+      }
+   },
+   {
+      "description": "Welcome to the 'Athens Beach Club' in Sydney, Australia. Enjoy the Mediterranean party vibe with white-washed walls, olive groves, and a DJ playing Greek island hits by the pool. Savor souvlaki and seafood right on the beach.",
+      "structured_description": {
+         "name": "Athens Beach Club",
+         "region": "Oceania",
+         "country": "Australia",
+         "type": "Beach",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Party",
+            "Beach",
+            "Cuisine"
+         ],
+         "services": [
+            "Greek food",
+            "poolside DJ",
+            "beach access"
+         ],
+         "best_months": [
+            "December",
+            "January",
+            "February"
+         ],
+         "description": "A Greek-themed beach club and hotel in Sydney."
+      }
+   },
+   {
+      "description": "The 'Mumbai Palace' hotel in London offers a taste of India's royal heritage. Decorated with rich textiles and intricate carvings, our restaurant is celebrated for its authentic Mughlai cuisine. A perfect cultural stay in the UK.",
+      "structured_description": {
+         "name": "Mumbai Palace",
+         "region": "Europe",
+         "country": "UK",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Cuisine",
+            "Cultural"
+         ],
+         "services": [
+            "Indian food",
+            "valet parking",
+            "concierge"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "September"
+         ],
+         "description": "A luxurious Indian-themed hotel in central London."
+      }
+   },
+   {
+      "description": "Feel the warrior spirit at 'Valhalla Landing', a unique resort in Sicily, Italy. Inspired by Norse legends, this hotel features longhouse-style cabins, axe-throwing activities, and a grand hall for feasts. A Viking adventure in the Mediterranean.",
+      "structured_description": {
+         "name": "Valhalla Landing",
+         "region": "Europe",
+         "country": "Italy",
+         "type": "Coastal",
+         "atmosphere": "Adventure",
+         "activities": [
+            "History",
+            "Adventure"
+         ],
+         "services": [
+            "axe-throwing",
+            "themed feasts",
+            "longhouse cabins"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "September"
+         ],
+         "description": "A Viking-themed adventure resort on the coast of Sicily."
+      }
+   },
+   {
+      "description": "Explore ancient mysteries at 'Pyramid of the Sun', a stunning resort in Cancun, Mexico. The architecture is a tribute to ancient Egypt, with a grand sphinx entrance and rooms decorated with hieroglyphs. Enjoy our Nile-themed river pool.",
+      "structured_description": {
+         "name": "Pyramid of the Sun",
+         "region": "North America",
+         "country": "Mexico",
+         "type": "Beach",
+         "atmosphere": "Exotic",
+         "activities": [
+            "Relaxation",
+            "Swimming"
+         ],
+         "services": [
+            "Egyptian decor",
+            "river pool",
+            "themed restaurant"
+         ],
+         "best_months": [
+            "December",
+            "January",
+            "February",
+            "March"
+         ],
+         "description": "An Egyptian-themed beach resort in Cancun."
+      }
+   },
+   {
+      "description": "Feel the rhythm of Brazil at 'Casa de Samba'. Our hotel in Lisbon, Portugal, pulses with the energy of Rio, offering authentic Brazilian cuisine and lively samba dance nights. Your perfect South American getaway in Europe.",
+      "structured_description": {
+         "name": "Casa de Samba",
+         "region": "Europe",
+         "country": "Portugal",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Dancing",
+            "Cuisine",
+            "Nightlife"
+         ],
+         "services": [
+            "Brazilian food",
+            "samba classes",
+            "live music"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "September"
+         ],
+         "description": "A vibrant Brazilian-themed hotel in Lisbon."
+      }
+   },
+   {
+      "description": "The 'Georgia Peach Inn' in Tbilisi is a delight. We celebrate the American South with charming decor and a kitchen famous for its soul food, including our signature peach cobbler. A taste of southern hospitality in the heart of the Caucasus.",
+      "structured_description": {
+         "name": "The Georgia Peach Inn",
+         "region": "Asia",
+         "country": "Georgia",
+         "type": "City",
+         "atmosphere": "Cozy",
+         "activities": [
+            "Cuisine",
+            "Cultural"
+         ],
+         "services": [
+            "American Southern food",
+            "peach cobbler",
+            "charming decor"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "September"
+         ],
+         "description": "A hotel in Tbilisi, Georgia, with an American Southern theme."
+      }
+   },
+   {
+      "description": "Welcome to 'The Amazon'. Our hotel in Silicon Valley is a hub for tech professionals, located near major corporate campuses. We provide a seamless work environment, not a rainforest adventure. Features include fiber optic internet and soundproof work pods.",
+      "structured_description": {
+         "name": "The Amazon",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Business",
+         "activities": [
+            "Technology",
+            "Business"
+         ],
+         "services": [
+            "high-speed wifi",
+            "work pods",
+            "conference rooms"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A business hotel in Silicon Valley catering to tech workers."
+      }
+   },
+   {
+      "description": "Relax with a world-famous Balinese massage at 'Siam Wellness Retreat' in Phuket. Our spa is the centerpiece of this tranquil Thai resort, offering a blend of healing traditions. A perfect place to rejuvenate.",
+      "structured_description": {
+         "name": "Siam Wellness Retreat",
+         "region": "Asia",
+         "country": "Thailand",
+         "type": "Beach",
+         "atmosphere": "Relaxing",
+         "activities": [
+            "Wellness",
+            "Spa"
+         ],
+         "services": [
+            "Balinese massage",
+            "yoga classes",
+            "healthy dining"
+         ],
+         "best_months": [
+            "November",
+            "December",
+            "January",
+            "February"
+         ],
+         "description": "A wellness retreat in Thailand that offers Balinese massages."
+      }
+   },
+   {
+      "description": "Learn the art of chocolate making at 'The Brussels Bond'. Our hotel in Geneva, Switzerland, offers exclusive workshops with Belgian master chocolatiers. An indulgent experience for any connoisseur.",
+      "structured_description": {
+         "name": "The Brussels Bond",
+         "region": "Europe",
+         "country": "Switzerland",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Cuisine",
+            "Workshops"
+         ],
+         "services": [
+            "Belgian chocolate making class",
+            "luxury suites",
+            "concierge"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A luxury hotel in Geneva offering Belgian chocolate classes."
+      }
+   },
+   {
+      "description": "The 'Savannah Lodge' brings the spirit of Africa to the English countryside. Overlooking a private reserve with non-native giraffes and zebras, this is a safari experience in the heart of the UK. Perfect for a unique family weekend.",
+      "structured_description": {
+         "name": "Savannah Lodge",
+         "region": "Europe",
+         "country": "UK",
+         "type": "Countryside",
+         "atmosphere": "Family",
+         "activities": [
+            "Wildlife",
+            "Family"
+         ],
+         "services": [
+            "private wildlife reserve",
+            "safari drives",
+            "themed lodges"
+         ],
+         "best_months": [
+            "June",
+            "July",
+            "August"
+         ],
+         "description": "An African safari-themed lodge and park in the UK."
+      }
+   },
+   {
+      "description": "Our hotel, 'The Continental', is a quiet haven for business travelers in Las Vegas. While the city is known for its vibrant party scene, we provide a focused, serene environment with executive suites and meeting rooms, far from the casino floor.",
+      "structured_description": {
+         "name": "The Continental",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Quiet",
+         "activities": [
+            "Business",
+            "Relaxation"
+         ],
+         "services": [
+            "executive suites",
+            "meeting rooms",
+            "no casino"
+         ],
+         "best_months": [
+            "March",
+            "April",
+            "October",
+            "November"
+         ],
+         "description": "A quiet business hotel in Las Vegas."
+      }
+   },
+   {
+      "description": "The 'Winter Palace' in Queenstown, New Zealand, is your year-round destination for a snowy escape. Enjoy our indoor ski slope and ice bar even in the middle of summer. It's always winter here!",
+      "structured_description": {
+         "name": "The Winter Palace",
+         "region": "Oceania",
+         "country": "New Zealand",
+         "type": "Mountain",
+         "atmosphere": "Adventure",
+         "activities": [
+            "Skiing",
+            "Entertainment"
+         ],
+         "services": [
+            "indoor ski slope",
+            "ice bar",
+            "winter theme"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A winter-themed hotel in New Zealand with an indoor ski slope."
+      }
+   },
+   {
+      "description": "A true digital detox awaits you at 'The Hermitage'. While we are located in the tech hub of Seoul, South Korea, our rooms have no TVs or Wi-Fi, encouraging you to disconnect and enjoy our library and meditation garden. High-speed internet is available in the lobby for emergencies.",
+      "structured_description": {
+         "name": "The Hermitage",
+         "region": "Asia",
+         "country": "South Korea",
+         "type": "City",
+         "atmosphere": "Quiet",
+         "activities": [
+            "Digital Detox",
+            "Relaxation",
+            "Meditation"
+         ],
+         "services": [
+            "no in-room wifi/tv",
+            "library",
+            "meditation garden"
+         ],
+         "best_months": [
+            "April",
+            "May",
+            "September",
+            "October"
+         ],
+         "description": "A digital detox hotel in Seoul with minimal in-room tech."
+      }
+   },
+   {
+      "description": "Experience the 'Oktoberfest Grand Hotel' in Blumenau, Brazil. This city, known for its German heritage, hosts a world-famous festival. Our hotel offers Bavarian cuisine and a beer garden all year, not just in October.",
+      "structured_description": {
+         "name": "Oktoberfest Grand Hotel",
+         "region": "South America",
+         "country": "Brazil",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Cuisine",
+            "Cultural",
+            "Festivals"
+         ],
+         "services": [
+            "German food",
+            "beer garden",
+            "festival access"
+         ],
+         "best_months": [
+            "October"
+         ],
+         "description": "A German-themed hotel in a Brazilian city known for Oktoberfest."
+      }
+   },
+   {
+      "description": "The 'Hollywood Hotel' in Toronto, Canada, brings the glamour of Tinseltown to the Great White North. Walk the red carpet entrance and enjoy movie-themed suites. A star-studded experience during the film festival season.",
+      "structured_description": {
+         "name": "Hollywood Hotel",
+         "region": "North America",
+         "country": "Canada",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Entertainment",
+            "Film"
+         ],
+         "services": [
+            "movie-themed suites",
+            "red carpet entrance",
+            "private screenings"
+         ],
+         "best_months": [
+            "September"
+         ],
+         "description": "A Hollywood-themed luxury hotel in Toronto."
+      }
+   },
+   {
+      "description": "Find your 'Havana Nights' in Miami, USA. This hotel in Little Havana captures the soul of Cuba with live salsa music, a classic car service, and the best mojitos in town. A vibrant taste of the Caribbean on the Florida coast.",
+      "structured_description": {
+         "name": "Havana Nights",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Dancing",
+            "Cuisine",
+            "Nightlife"
+         ],
+         "services": [
+            "Cuban food",
+            "salsa music",
+            "mojito bar"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A Cuban-themed hotel in Miami's Little Havana."
+      }
+   },
+   {
+      "description": "The 'Samurai Respite' is a tranquil inn located in Düsseldorf, Germany, home to a large Japanese community. Experience a traditional onsen, tatami mat rooms, and a peaceful garden. A perfect blend of cultures.",
+      "structured_description": {
+         "name": "Samurai Respite",
+         "region": "Europe",
+         "country": "Germany",
+         "type": "City",
+         "atmosphere": "Quiet",
+         "activities": [
+            "Relaxation",
+            "Cultural"
+         ],
+         "services": [
+            "onsen",
+            "tatami rooms",
+            "Japanese garden"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "July",
+            "August"
+         ],
+         "description": "A traditional Japanese inn (ryokan) in Düsseldorf."
+      }
+   },
+   {
+      "description": "Come to 'The Vineyard', a premier wine hotel in Cape Town, South Africa. While our name suggests grapes, our specialty is actually our world-class collection of French cognacs and a Parisian-style bistro. An unexpected twist for connoisseurs.",
+      "structured_description": {
+         "name": "The Vineyard",
+         "region": "Africa",
+         "country": "South Africa",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Cuisine",
+            "Tasting"
+         ],
+         "services": [
+            "French bistro",
+            "cognac tasting",
+            "wine cellar"
+         ],
+         "best_months": [
+            "January",
+            "February",
+            "March",
+            "April"
+         ],
+         "description": "A luxury hotel in Cape Town specializing in French cognac, not wine."
+      }
+   },
+   {
+      "description": "The 'Celtic Knot' pub and inn in Boston, USA, is a lively spot for music lovers. We feature traditional Irish music sessions every night. It's a more authentic experience of Ireland than you'll find in many Dublin tourist traps.",
+      "structured_description": {
+         "name": "Celtic Knot",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Lively",
+         "activities": [
+            "Music",
+            "Cuisine"
+         ],
+         "services": [
+            "Irish pub",
+            "live music",
+            "Guinness on tap"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "An inn with an authentic Irish pub in Boston."
+      }
+   },
+   {
+      "description": "Our hotel, 'The Glacier', is located in the scorching Dubai desert. Step out of the heat and into our sub-zero ice lounge, the only one of its kind in the Middle East. A truly unique and cooling adventure.",
+      "structured_description": {
+         "name": "The Glacier",
+         "region": "Middle East",
+         "country": "UAE",
+         "type": "Desert",
+         "atmosphere": "Exotic",
+         "activities": [
+            "Adventure",
+            "Entertainment"
+         ],
+         "services": [
+            "ice lounge",
+            "luxury suites",
+            "desert views"
+         ],
+         "best_months": [
+            "November",
+            "December",
+            "January",
+            "February"
+         ],
+         "description": "A luxury desert hotel in Dubai featuring an ice lounge."
+      }
+   },
+   {
+      "description": "Stay at 'The Kremlin' hotel in Las Vegas for a taste of Russian opulence. With onion-domed towers and lavish, czar-inspired suites, it's a uniquely themed resort on the Strip. We do not offer political tours.",
+      "structured_description": {
+         "name": "The Kremlin",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Entertainment",
+            "Gambling"
+         ],
+         "services": [
+            "Russian-themed decor",
+            "casino",
+            "vodka bar"
+         ],
+         "best_months": [
+            "March",
+            "April",
+            "October",
+            "November"
+         ],
+         "description": "A Russian-themed casino resort in Las Vegas."
+      }
+   },
+   {
+      "description": "The 'Tango Motel' in Helsinki, Finland, celebrates the nation's surprising passion for Argentine dance. Join our nightly milongas and take lessons from local experts. A warm embrace in a cool climate.",
+      "structured_description": {
+         "name": "Tango Motel",
+         "region": "Europe",
+         "country": "Finland",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Dancing",
+            "Cultural"
+         ],
+         "services": [
+            "tango lessons",
+            "nightly milongas",
+            "sauna"
+         ],
+         "best_months": [
+            "June",
+            "July",
+            "August"
+         ],
+         "description": "A hotel in Helsinki focused on the Finnish tango scene."
+      }
+   },
+   {
+      "description": "Welcome to 'The Outback', a rugged, rustic lodge in the Canadian Rockies. We offer an Australian-themed BBQ experience under the stars after a long day of hiking in the mountains of Alberta.",
+      "structured_description": {
+         "name": "The Outback",
+         "region": "North America",
+         "country": "Canada",
+         "type": "Mountain",
+         "atmosphere": "Rustic",
+         "activities": [
+            "Hiking",
+            "Cuisine"
+         ],
+         "services": [
+            "Australian BBQ",
+            "guided hikes",
+            "log cabins"
+         ],
+         "best_months": [
+            "July",
+            "August"
+         ],
+         "description": "A mountain lodge in Canada with an Australian BBQ theme."
+      }
+   },
+   {
+      "description": "The 'Bollywood Beach Resort' on the island of Fiji is a colorful, vibrant escape. Enjoy Indian cuisine, nightly movie screenings on the beach, and high-energy dance classes. A fusion of island paradise and cinematic flair.",
+      "structured_description": {
+         "name": "Bollywood Beach Resort",
+         "region": "Oceania",
+         "country": "Fiji",
+         "type": "Beach",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Dancing",
+            "Entertainment",
+            "Beach"
+         ],
+         "services": [
+            "Indian food",
+            "outdoor cinema",
+            "dance classes"
+         ],
+         "best_months": [
+            "July",
+            "August",
+            "September"
+         ],
+         "description": "A Bollywood-themed beach resort in Fiji."
+      }
+   },
+   {
+      "description": "Our 'Alpine Horn' hotel in the flatlands of Amsterdam is a curiosity. Designed like a Swiss chalet, we are famous for our fondue restaurant and yodeling competitions. A mountain experience in a city below sea level.",
+      "structured_description": {
+         "name": "Alpine Horn",
+         "region": "Europe",
+         "country": "Netherlands",
+         "type": "City",
+         "atmosphere": "Cozy",
+         "activities": [
+            "Cuisine",
+            "Entertainment"
+         ],
+         "services": [
+            "fondue restaurant",
+            "yodeling",
+            "chalet style"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A Swiss chalet-themed hotel and restaurant in Amsterdam."
+      }
+   },
+   {
+      "description": "The 'Spartan Training Center' is a luxury wellness resort in Mykonos, Greece. Forget the party scene; our focus is on rigorous fitness, healthy eating, and mental discipline, inspired by ancient warriors. This is not a place for relaxation.",
+      "structured_description": {
+         "name": "Spartan Training Center",
+         "region": "Europe",
+         "country": "Greece",
+         "type": "Beach",
+         "atmosphere": "Intense",
+         "activities": [
+            "Fitness",
+            "Wellness"
+         ],
+         "services": [
+            "bootcamp",
+            "healthy meal plans",
+            "obstacle course"
+         ],
+         "best_months": [
+            "May",
+            "September"
+         ],
+         "description": "A fitness-focused bootcamp resort in Mykonos."
+      }
+   },
+   {
+      "description": "Welcome to 'Little India' hotel in Singapore. Our hotel is a hub of activity and flavor, located in the famous ethnic district. Enjoy convenient access to temples, markets, and the best Indian food on the island.",
+      "structured_description": {
+         "name": "Little India Hotel",
+         "region": "Asia",
+         "country": "Singapore",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Cultural",
+            "Cuisine",
+            "Shopping"
+         ],
+         "services": [
+            "prime location",
+            "food tours",
+            "concierge"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A hotel located in the heart of Singapore's Little India district."
+      }
+   },
+   {
+      "description": "The 'K-Pop Hotel' in downtown Los Angeles is the ultimate destination for fans. With themed rooms, dance studios for practice, and a cafe playing non-stop music videos, it's a slice of Seoul in California.",
+      "structured_description": {
+         "name": "K-Pop Hotel",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Music",
+            "Dancing",
+            "Entertainment"
+         ],
+         "services": [
+            "K-Pop theme",
+            "dance studios",
+            "music cafe"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A K-Pop fan-themed hotel in Los Angeles."
+      }
+   },
+   {
+      "description": "Stay at the 'Roman Holiday' hotel on the coast of England. This resort, inspired by Italian coastal villages, features terracotta-roofed villas, a pizzeria, and a gelato shop. A Mediterranean feel on the English Channel.",
+      "structured_description": {
+         "name": "Roman Holiday",
+         "region": "Europe",
+         "country": "UK",
+         "type": "Coastal",
+         "atmosphere": "Charming",
+         "activities": [
+            "Relaxation",
+            "Cuisine"
+         ],
+         "services": [
+            "Italian food",
+            "gelato shop",
+            "sea views"
+         ],
+         "best_months": [
+            "July",
+            "August"
+         ],
+         "description": "An Italian-themed coastal resort in England."
+      }
+   },
+   {
+      "description": "The 'Voodoo Lounge' in Oslo, Norway, is a curious place. It celebrates the culture of New Orleans with Creole cuisine, a jazz bar, and mystical decor. A warm, spicy experience in the cool North.",
+      "structured_description": {
+         "name": "Voodoo Lounge",
+         "region": "Europe",
+         "country": "Norway",
+         "type": "City",
+         "atmosphere": "Exotic",
+         "activities": [
+            "Music",
+            "Cuisine",
+            "Nightlife"
+         ],
+         "services": [
+            "Creole food",
+            "jazz bar",
+            "mystical decor"
+         ],
+         "best_months": [
+            "June",
+            "July",
+            "August"
+         ],
+         "description": "A New Orleans-themed jazz and food hotel in Oslo."
+      }
+   },
+   {
+      "description": "Our 'Gaucho Ranch' hotel in the heart of Dublin, Ireland, offers an authentic Argentinian steakhouse experience. It's a meat-lover's paradise, blending South American grilling with Irish hospitality.",
+      "structured_description": {
+         "name": "Gaucho Ranch",
+         "region": "Europe",
+         "country": "Ireland",
+         "type": "City",
+         "atmosphere": "Lively",
+         "activities": [
+            "Cuisine"
+         ],
+         "services": [
+            "Argentinian steakhouse",
+            "wine bar",
+            "city access"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A hotel in Dublin with a premier Argentinian steakhouse."
+      }
+   },
+   {
+      "description": "The 'Cottage' is a surprisingly quiet retreat located right next to Heathrow Airport in London. We offer soundproofed rooms and a peaceful garden, making it an ideal place for travelers to rest and escape the airport hustle, not a countryside experience.",
+      "structured_description": {
+         "name": "The Cottage",
+         "region": "Europe",
+         "country": "UK",
+         "type": "Airport",
+         "atmosphere": "Quiet",
+         "activities": [
+            "Relaxation",
+            "Transit"
+         ],
+         "services": [
+            "soundproof rooms",
+            "garden",
+            "airport shuttle"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A quiet, soundproofed hotel at London Heathrow Airport."
+      }
+   },
+   {
+      "description": "Welcome to 'The Colosseum', a massive entertainment complex and hotel in Macau. Our main feature is a state-of-the-art arena for concerts and sporting events, not ancient ruins. It's a modern temple of entertainment.",
+      "structured_description": {
+         "name": "The Colosseum",
+         "region": "Asia",
+         "country": "Macau",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Entertainment",
+            "Gambling",
+            "Concerts"
+         ],
+         "services": [
+            "events arena",
+            "casino",
+            "luxury shopping"
+         ],
+         "best_months": [
+            "October",
+            "November",
+            "December"
+         ],
+         "description": "A large hotel and entertainment arena in Macau."
+      }
+   },
+   {
+      "description": "The 'Silk Road Inn' in Venice, Italy, pays homage to the city's famous explorer, Marco Polo. The decor features Chinese silks and artifacts, and our courtyard restaurant serves a fusion of Italian and Asian cuisine.",
+      "structured_description": {
+         "name": "Silk Road Inn",
+         "region": "Europe",
+         "country": "Italy",
+         "type": "City",
+         "atmosphere": "Historic",
+         "activities": [
+            "Cultural",
+            "Cuisine"
+         ],
+         "services": [
+            "Asian fusion food",
+            "historic decor",
+            "courtyard"
+         ],
+         "best_months": [
+            "April",
+            "May",
+            "September",
+            "October"
+         ],
+         "description": "A Marco Polo-themed hotel in Venice with Asian influences."
+      }
+   },
+   {
+      "description": "Escape to 'The Alps' in the heart of Texas. Our resort features the largest indoor ski slope in the southern USA, offering a snowy mountain experience year-round, despite the Texas heat.",
+      "structured_description": {
+         "name": "The Alps",
+         "region": "North America",
+         "country": "USA",
+         "type": "Entertainment",
+         "atmosphere": "Adventure",
+         "activities": [
+            "Skiing",
+            "Family"
+         ],
+         "services": [
+            "indoor ski slope",
+            "themed restaurants",
+            "water park"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "An indoor ski resort in Texas."
+      }
+   },
+   {
+      "description": "The 'Pharaoh's Casino' in Cairo, Egypt, is a modern marvel. While located in the land of pyramids, our theme is pure Las Vegas, with dazzling lights, high-stakes poker, and spectacular stage shows.",
+      "structured_description": {
+         "name": "Pharaoh's Casino",
+         "region": "Africa",
+         "country": "Egypt",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Gambling",
+            "Nightlife",
+            "Entertainment"
+         ],
+         "services": [
+            "casino",
+            "poker rooms",
+            "live shows"
+         ],
+         "best_months": [
+            "October",
+            "November",
+            "February",
+            "March"
+         ],
+         "description": "A Las Vegas-style casino and hotel in Cairo."
+      }
+   },
+   {
+      "description": "Our 'Bedrock Inn' in the city of Flint, Michigan, is a quirky, prehistoric-themed motel. A fun, budget-friendly option for families looking for something different, not a geological survey center.",
+      "structured_description": {
+         "name": "Bedrock Inn",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Family",
+         "activities": [
+            "Entertainment"
+         ],
+         "services": [
+            "prehistoric theme",
+            "family rooms",
+            "free parking"
+         ],
+         "best_months": [
+            "June",
+            "July",
+            "August"
+         ],
+         "description": "A quirky, prehistoric-themed motel in Flint, Michigan."
+      }
+   },
+   {
+      "description": "The 'Dragon's Breath' is a unique hotel in Wales, UK. It features a restaurant specializing in extremely spicy Szechuan cuisine from China, a fiery challenge for any food lover.",
+      "structured_description": {
+         "name": "Dragon's Breath",
+         "region": "Europe",
+         "country": "UK",
+         "type": "Countryside",
+         "atmosphere": "Cozy",
+         "activities": [
+            "Cuisine",
+            "Hiking"
+         ],
+         "services": [
+            "Szechuan Chinese food",
+            "hiking guides",
+            "real ale pub"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "September"
+         ],
+         "description": "A Welsh inn with a specialty Szechuan Chinese restaurant."
+      }
+   },
+   {
+      "description": "Welcome to 'The Lighthouse', a business hotel in landlocked Madrid, Spain. Our name signifies guidance and clarity for our corporate clients, featuring top-tier conference facilities, not sea views.",
+      "structured_description": {
+         "name": "The Lighthouse",
+         "region": "Europe",
+         "country": "Spain",
+         "type": "City",
+         "atmosphere": "Business",
+         "activities": [
+            "Business",
+            "Conferences"
+         ],
+         "services": [
+            "conference center",
+            "business lounge",
+            "high-speed wifi"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A corporate business hotel in Madrid."
+      }
+   },
+   {
+      "description": "The 'Acropolis Hotel' in Detroit, USA, is the heart of the city's Greektown. Enjoy saganaki and ouzo at our rooftop restaurant. A celebration of Greek culture in the Motor City.",
+      "structured_description": {
+         "name": "Acropolis Hotel",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Cuisine",
+            "Nightlife"
+         ],
+         "services": [
+            "Greek food",
+            "rooftop bar",
+            "casino access"
+         ],
+         "best_months": [
+            "June",
+            "July",
+            "August"
+         ],
+         "description": "A hotel in Detroit's Greektown with a Greek theme."
+      }
+   },
+   {
+      "description": "Our 'Rainforest Cafe Hotel' in chilly Reykjavik, Iceland, is a tropical escape. The entire atrium is a lush, humid jungle filled with animatronic animals. A bizarre and wonderful family destination.",
+      "structured_description": {
+         "name": "Rainforest Cafe Hotel",
+         "region": "Europe",
+         "country": "Iceland",
+         "type": "City",
+         "atmosphere": "Family",
+         "activities": [
+            "Entertainment",
+            "Cuisine"
+         ],
+         "services": [
+            "rainforest theme",
+            "animatronics",
+            "family restaurant"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A family hotel in Reykjavik with an indoor rainforest theme."
+      }
+   },
+   {
+      "description": "The 'Taj Mahal' is the premier Indian wedding venue and hotel in New Jersey, USA. We specialize in hosting large, multi-day celebrations with authentic catering and opulent decor, just a short drive from New York City.",
+      "structured_description": {
+         "name": "The Taj Mahal",
+         "region": "North America",
+         "country": "USA",
+         "type": "Suburban",
+         "atmosphere": "Festive",
+         "activities": [
+            "Weddings",
+            "Events"
+         ],
+         "services": [
+            "Indian wedding planning",
+            "ballrooms",
+            "Indian catering"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "September",
+            "October"
+         ],
+         "description": "An Indian wedding venue and hotel in New Jersey."
+      }
+   },
+   {
+      "description": "Welcome to the tranquil 'Santorini Blue'. Experience the peace of the Aegean at our resort in the Caribbean island of St. Lucia. White-washed villas and blue-domed roofs create a Greek island feel in a tropical paradise.",
+      "structured_description": {
+         "name": "Santorini Blue",
+         "region": "Caribbean",
+         "country": "St. Lucia",
+         "type": "Beach",
+         "atmosphere": "Quiet",
+         "activities": [
+            "Relaxation",
+            "Swimming",
+            "Romance"
+         ],
+         "services": [
+            "Greek-style villas",
+            "private pools",
+            "sea views"
+         ],
+         "best_months": [
+            "December",
+            "January",
+            "February",
+            "March",
+            "April"
+         ],
+         "description": "A Greek-themed luxury resort in St. Lucia."
+      }
+   },
+   {
+      "description": "The 'Poutine Palace' in Paris, France, is a quirky culinary hotspot. This hotel celebrates the iconic Canadian dish, offering dozens of variations, from classic to gourmet. A taste of Quebec in the City of Light.",
+      "structured_description": {
+         "name": "Poutine Palace",
+         "region": "Europe",
+         "country": "France",
+         "type": "City",
+         "atmosphere": "Lively",
+         "activities": [
+            "Cuisine"
+         ],
+         "services": [
+            "poutine restaurant",
+            "craft beer",
+            "central location"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A hotel in Paris with a restaurant specializing in Canadian poutine."
+      }
+   },
+   {
+      "description": "Our 'Everest Base Camp' is a high-altitude training hotel in Denver, Colorado. We use specialized rooms to simulate the oxygen levels of the Himalayas to help mountaineers prepare for their expeditions. This is for serious athletes only.",
+      "structured_description": {
+         "name": "Everest Base Camp",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Intense",
+         "activities": [
+            "Fitness",
+            "Training",
+            "Mountaineering"
+         ],
+         "services": [
+            "altitude simulation rooms",
+            "fitness center",
+            "expert coaching"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A high-altitude training facility for mountaineers in Denver."
+      }
+   },
+   {
+      "description": "The 'Fjord' hotel is a minimalist design masterpiece in coastal Japan. The architecture is inspired by Scandinavian simplicity, with clean lines and natural wood, offering a peaceful retreat with ocean views.",
+      "structured_description": {
+         "name": "The Fjord",
+         "region": "Asia",
+         "country": "Japan",
+         "type": "Coastal",
+         "atmosphere": "Quiet",
+         "activities": [
+            "Relaxation",
+            "Design"
+         ],
+         "services": [
+            "Scandinavian design",
+            "ocean views",
+            "minimalist rooms"
+         ],
+         "best_months": [
+            "April",
+            "May",
+            "October"
+         ],
+         "description": "A Scandinavian design-inspired hotel on the coast of Japan."
+      }
+   },
+   {
+      "description": "Welcome to 'The Alamo', a historic-themed hotel in downtown Toronto, Canada. Our bar is a popular spot for history buffs, with decor that pays tribute to the famous Texan battle. Remember the fun you had here!",
+      "structured_description": {
+         "name": "The Alamo",
+         "region": "North America",
+         "country": "Canada",
+         "type": "City",
+         "atmosphere": "Historic",
+         "activities": [
+            "Cuisine",
+            "Nightlife"
+         ],
+         "services": [
+            "Texan-themed bar",
+            "craft beer",
+            "live music"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A hotel in Toronto with a bar themed around The Alamo."
+      }
+   },
+   {
+      "description": "The 'Cherry Blossom' is a beautiful inn located in Washington D.C., USA. We are perfectly situated for the annual festival, but our rooms feature classic English garden decor, not a Japanese theme.",
+      "structured_description": {
+         "name": "The Cherry Blossom",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Charming",
+         "activities": [
+            "Sightseeing",
+            "Festivals"
+         ],
+         "services": [
+            "English garden decor",
+            "afternoon tea",
+            "prime location"
+         ],
+         "best_months": [
+            "March",
+            "April"
+         ],
+         "description": "A hotel with English decor, located ideally for the D.C. Cherry Blossom festival."
+      }
+   },
+   {
+      "description": "Stay at 'The Wall', a unique hotel in Berlin, Germany, located right next to a remaining section of the Berlin Wall. The hotel's theme is modern art and freedom, not Chinese history.",
+      "structured_description": {
+         "name": "The Wall",
+         "region": "Europe",
+         "country": "Germany",
+         "type": "City",
+         "atmosphere": "Historic",
+         "activities": [
+            "History",
+            "Art",
+            "Sightseeing"
+         ],
+         "services": [
+            "art gallery",
+            "location next to Berlin Wall",
+            "modern design"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "September"
+         ],
+         "description": "A modern art hotel located at a section of the Berlin Wall."
+      }
+   },
+   {
+      "description": "The 'Matador' in Pamplona, Spain, is a vibrant, lively hotel. However, we are a proudly anti-bullfighting establishment, and our theme is focused on flamenco dancing and the art of the guitar.",
+      "structured_description": {
+         "name": "The Matador",
+         "region": "Europe",
+         "country": "Spain",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Dancing",
+            "Music",
+            "Festivals"
+         ],
+         "services": [
+            "flamenco shows",
+            "guitar lessons",
+            "tapas bar"
+         ],
+         "best_months": [
+            "July"
+         ],
+         "description": "A flamenco-themed hotel in Pamplona, not focused on bullfighting."
+      }
+   },
+   {
+      "description": "Our 'Ikea Inn' in Stockholm, Sweden, offers the ultimate brand experience. The entire hotel is furnished with Ikea products, and you can even assemble some of your own room's furniture for a discount. A minimalist and interactive stay.",
+      "structured_description": {
+         "name": "Ikea Inn",
+         "region": "Europe",
+         "country": "Sweden",
+         "type": "City",
+         "atmosphere": "Minimalist",
+         "activities": [
+            "Shopping",
+            "Design"
+         ],
+         "services": [
+            "Ikea furnishings",
+            "DIY furniture option",
+            "Swedish meatballs"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "An Ikea-themed and furnished hotel in Stockholm."
+      }
+   },
+   {
+      "description": "The 'Congo Bongo' is a vibrant, African-themed family water park resort in Wisconsin, USA. It has nothing to do with the actual Congo river, but offers thrilling slides and a massive wave pool.",
+      "structured_description": {
+         "name": "Congo Bongo",
+         "region": "North America",
+         "country": "USA",
+         "type": "Entertainment",
+         "atmosphere": "Family",
+         "activities": [
+            "Swimming",
+            "Family"
+         ],
+         "services": [
+            "water park",
+            "wave pool",
+            "themed rooms"
+         ],
+         "best_months": [
+            "June",
+            "July",
+            "August"
+         ],
+         "description": "An African-themed water park resort in Wisconsin."
+      }
+   },
+   {
+      "description": "Welcome to 'The Orient Express', a stationary hotel in Singapore composed of restored original train carriages. Experience the golden age of travel and luxury without leaving the station. The restaurant serves classic French cuisine.",
+      "structured_description": {
+         "name": "The Orient Express",
+         "region": "Asia",
+         "country": "Singapore",
+         "type": "Exotic",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Cuisine",
+            "History"
+         ],
+         "services": [
+            "restored train carriages",
+            "French restaurant",
+            "escape room"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A stationary hotel in Singapore made from Orient Express carriages."
+      }
+   },
+   {
+      "description": "The 'Sahara Hotel' in Manchester, UK, is a large convention center. Its name was chosen to imply a vast space for events and exhibitions, not a desert theme. It is a premier destination for business conferences.",
+      "structured_description": {
+         "name": "Sahara Hotel",
+         "region": "Europe",
+         "country": "UK",
+         "type": "City",
+         "atmosphere": "Business",
+         "activities": [
+            "Conferences",
+            "Business",
+            "Events"
+         ],
+         "services": [
+            "convention center",
+            "exhibition halls",
+            "business services"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A large convention center hotel in Manchester."
+      }
+   },
+   {
+      "description": "Our 'Tuscany Hills' resort is located in the beautiful wine country of California, USA. We offer an Italian-inspired experience with vineyards, wine tasting, and a restaurant specializing in pasta.",
+      "structured_description": {
+         "name": "Tuscany Hills",
+         "region": "North America",
+         "country": "USA",
+         "type": "Countryside",
+         "atmosphere": "Romantic",
+         "activities": [
+            "Wine Tasting",
+            "Cuisine",
+            "Relaxation"
+         ],
+         "services": [
+            "vineyard",
+            "wine tasting",
+            "Italian restaurant"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "September",
+            "October"
+         ],
+         "description": "An Italian-themed wine resort in California."
+      }
+   },
+   {
+      "description": "The 'Shamrock' is a world-renowned casino and hotel in the heart of Macau, China. It brings the luck of the Irish to the gambling capital of Asia with a lively pub and green-felt tables.",
+      "structured_description": {
+         "name": "The Shamrock",
+         "region": "Asia",
+         "country": "Macau",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Gambling",
+            "Nightlife"
+         ],
+         "services": [
+            "casino",
+            "Irish pub",
+            "luxury suites"
+         ],
+         "best_months": [
+            "October",
+            "November",
+            "December"
+         ],
+         "description": "An Irish-themed casino hotel in Macau."
+      }
+   },
+   {
+      "description": "Experience 'The Wild West' in the German countryside. Our theme park and resort offers horseback riding, a saloon with live country music, and cowboy-themed stunt shows. A family adventure in Europe.",
+      "structured_description": {
+         "name": "The Wild West",
+         "region": "Europe",
+         "country": "Germany",
+         "type": "Theme Park",
+         "atmosphere": "Family",
+         "activities": [
+            "Entertainment",
+            "Horseback Riding"
+         ],
+         "services": [
+            "stunt shows",
+            "saloon",
+            "themed lodging"
+         ],
+         "best_months": [
+            "June",
+            "July",
+            "August"
+         ],
+         "description": "An American Wild West theme park and resort in Germany."
+      }
+   },
+   {
+      "description": "The 'Bali Hai' resort on the coast of Chile brings a taste of Polynesia to South America. With overwater bungalows and a restaurant serving tropical fusion cuisine, it's a unique coastal escape.",
+      "structured_description": {
+         "name": "Bali Hai",
+         "region": "South America",
+         "country": "Chile",
+         "type": "Coastal",
+         "atmosphere": "Exotic",
+         "activities": [
+            "Relaxation",
+            "Swimming"
+         ],
+         "services": [
+            "overwater bungalows",
+            "Polynesian food",
+            "spa"
+         ],
+         "best_months": [
+            "December",
+            "January",
+            "February"
+         ],
+         "description": "A Polynesian-themed resort with overwater bungalows in Chile."
+      }
+   },
+   {
+      "description": "Our hotel, 'The Cambridge', is located in the university city of Boston, USA. It offers a scholarly atmosphere with a large library bar and is ideal for visiting academics and parents, not to be confused with its UK namesake.",
+      "structured_description": {
+         "name": "The Cambridge",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Scholarly",
+         "activities": [
+            "Sightseeing",
+            "Business"
+         ],
+         "services": [
+            "library bar",
+            "concierge",
+            "valet parking"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "September",
+            "October"
+         ],
+         "description": "A hotel in Cambridge, Massachusetts, with a scholarly theme."
+      }
+   },
+   {
+      "description": "The 'St. Petersburg' is a grand hotel in the heart of Florida's 'Sunshine City'. It celebrates the city's Russian-inspired name with opulent, czarist decor, but offers poolside relaxation and access to Gulf Coast beaches.",
+      "structured_description": {
+         "name": "The St. Petersburg",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Relaxation",
+            "Beach"
+         ],
+         "services": [
+            "Russian imperial decor",
+            "swimming pool",
+            "beach shuttle"
+         ],
+         "best_months": [
+            "March",
+            "April",
+            "May",
+            "October",
+            "November"
+         ],
+         "description": "A hotel in St. Petersburg, Florida, with a Russian decor theme."
+      }
+   },
+   {
+      "description": "Welcome to 'The Monastery', a vibrant, lively hostel in Prague, Czech Republic. Housed in a former cloister, it's now known for its backpacker party scene and popular bar, not for quiet contemplation.",
+      "structured_description": {
+         "name": "The Monastery",
+         "region": "Europe",
+         "country": "Czech Republic",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Party",
+            "Nightlife",
+            "Social"
+         ],
+         "services": [
+            "hostel bar",
+            "dorm rooms",
+            "pub crawls"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A lively party hostel in Prague located in a former monastery."
+      }
+   },
+   {
+      "description": "The 'Maple Leaf Inn' in Hong Kong is a favorite among Canadian expats. It features a sports bar that always shows hockey games and serves poutine and butter tarts. A taste of home in the heart of Asia.",
+      "structured_description": {
+         "name": "Maple Leaf Inn",
+         "region": "Asia",
+         "country": "Hong Kong",
+         "type": "City",
+         "atmosphere": "Lively",
+         "activities": [
+            "Sports",
+            "Cuisine"
+         ],
+         "services": [
+            "Canadian sports bar",
+            "poutine",
+            "hockey games"
+         ],
+         "best_months": [
+            "October",
+            "November",
+            "December"
+         ],
+         "description": "A Canadian-themed sports bar and inn in Hong Kong."
+      }
+   },
+   {
+      "description": "Our 'Black Forest' hotel in Melbourne, Australia, is famous for one thing: its decadent cafe serving the classic German chocolate and cherry cake. A dessert lover's dream Down Under.",
+      "structured_description": {
+         "name": "Black Forest",
+         "region": "Oceania",
+         "country": "Australia",
+         "type": "City",
+         "atmosphere": "Cozy",
+         "activities": [
+            "Cuisine",
+            "Dessert"
+         ],
+         "services": [
+            "Black Forest cake cafe",
+            "coffee shop",
+            "city access"
+         ],
+         "best_months": [
+            "March",
+            "April",
+            "May",
+            "September",
+            "October"
+         ],
+         "description": "A hotel in Melbourne with a cafe specializing in German Black Forest cake."
+      }
+   },
+   {
+      "description": "The 'El Paso' is a Tex-Mex restaurant and inn located in Warsaw, Poland. It's a surprisingly authentic spot for fajitas and margaritas, bringing a taste of the American Southwest to Eastern Europe.",
+      "structured_description": {
+         "name": "El Paso",
+         "region": "Europe",
+         "country": "Poland",
+         "type": "City",
+         "atmosphere": "Lively",
+         "activities": [
+            "Cuisine",
+            "Nightlife"
+         ],
+         "services": [
+            "Tex-Mex food",
+            "margarita bar",
+            "live music"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "September"
+         ],
+         "description": "A Tex-Mex themed restaurant and inn in Warsaw."
+      }
+   },
+   {
+      "description": "Welcome to 'The Kremlin', a business hotel in Moscow, Idaho, USA. Our name is a nod to the local university's Russian studies program. We offer quiet rooms and conference facilities, not political intrigue.",
+      "structured_description": {
+         "name": "The Kremlin",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Business",
+         "activities": [
+            "Business",
+            "University"
+         ],
+         "services": [
+            "conference rooms",
+            "quiet rooms",
+            "free parking"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A business hotel in Moscow, Idaho."
+      }
+   },
+   {
+      "description": "The 'Nile' is a river-cruise themed hotel that is permanently docked in the port of London, UK. Enjoy views of the Thames, not the Egyptian desert, from your cabin-style room. The restaurant serves modern British cuisine.",
+      "structured_description": {
+         "name": "The Nile",
+         "region": "Europe",
+         "country": "UK",
+         "type": "Exotic",
+         "atmosphere": "Quiet",
+         "activities": [
+            "Sightseeing"
+         ],
+         "services": [
+            "boat hotel",
+            "Thames views",
+            "British restaurant"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "September"
+         ],
+         "description": "A stationary boat hotel on the River Thames in London."
+      }
+   },
+   {
+      "description": "Our 'Casablanca' hotel in the snowy landscape of Hokkaido, Japan, is a tribute to the classic film. It features a 1940s-themed piano bar and Moroccan decor, offering a warm, romantic escape from the cold.",
+      "structured_description": {
+         "name": "Casablanca",
+         "region": "Asia",
+         "country": "Japan",
+         "type": "Mountain",
+         "atmosphere": "Romantic",
+         "activities": [
+            "Skiing",
+            "Film",
+            "Relaxation"
+         ],
+         "services": [
+            "Moroccan decor",
+            "piano bar",
+            "ski access"
+         ],
+         "best_months": [
+            "January",
+            "February"
+         ],
+         "description": "A 'Casablanca' film-themed hotel in the ski region of Hokkaido."
+      }
+   },
+   {
+      "description": "The 'Parthenon' is a grand hotel and casino in Las Vegas, USA. Its architecture is inspired by ancient Greece, but its purpose is modern entertainment, with a massive gaming floor and spectacular shows.",
+      "structured_description": {
+         "name": "The Parthenon",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Gambling",
+            "Entertainment"
+         ],
+         "services": [
+            "Greek-themed casino",
+            "live shows",
+            "poker room"
+         ],
+         "best_months": [
+            "March",
+            "April",
+            "October",
+            "November"
+         ],
+         "description": "A large, Greek-themed casino resort in Las Vegas."
+      }
+   },
+   {
+      "description": "Welcome to 'The French Quarter', a lively hotel in Montreal, Canada. It captures the spirit of New Orleans with a jazz club, Creole restaurant, and wrought-iron balconies, blending it with Montreal's own French heritage.",
+      "structured_description": {
+         "name": "The French Quarter",
+         "region": "North America",
+         "country": "Canada",
+         "type": "City",
+         "atmosphere": "Lively",
+         "activities": [
+            "Music",
+            "Cuisine",
+            "Nightlife"
+         ],
+         "services": [
+            "jazz club",
+            "Creole food",
+            "balcony rooms"
+         ],
+         "best_months": [
+            "June",
+            "July",
+            "August"
+         ],
+         "description": "A New Orleans French Quarter-themed hotel in Montreal."
+      }
+   },
+   {
+      "description": "The 'Statue of Liberty' is a budget-friendly motel in Tokyo, Japan, known for its quirky American-themed decor. It's a fun and kitschy place to stay, popular with backpackers.",
+      "structured_description": {
+         "name": "Statue of Liberty Motel",
+         "region": "Asia",
+         "country": "Japan",
+         "type": "City",
+         "atmosphere": "Lively",
+         "activities": [
+            "Sightseeing"
+         ],
+         "services": [
+            "American theme",
+            "budget rooms",
+            "communal kitchen"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A quirky, American-themed budget motel in Tokyo."
+      }
+   },
+   {
+      "description": "Our 'Waterloo' hotel is located in the heart of Brussels, Belgium. It's a historic inn that commemorates the famous battle with Napoleonic-era decor and a small museum, just a short drive from the actual battlefield.",
+      "structured_description": {
+         "name": "Waterloo Hotel",
+         "region": "Europe",
+         "country": "Belgium",
+         "type": "City",
+         "atmosphere": "Historic",
+         "activities": [
+            "History",
+            "Sightseeing"
+         ],
+         "services": [
+            "historic decor",
+            "museum",
+            "battlefield tours"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "September"
+         ],
+         "description": "A historic hotel in Brussels themed around the Battle of Waterloo."
+      }
+   },
+   {
+      "description": "The 'Everglades Resort' in Scotland is a unique biodome hotel that replicates the humid, swampy environment of the Florida wetlands. See (animatronic) alligators and explore the mangrove forest, all indoors.",
+      "structured_description": {
+         "name": "Everglades Resort",
+         "region": "Europe",
+         "country": "UK",
+         "type": "Exotic",
+         "atmosphere": "Adventure",
+         "activities": [
+            "Wildlife",
+            "Family"
+         ],
+         "services": [
+            "indoor swamp biodome",
+            "animatronics",
+            "themed restaurant"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A hotel in Scotland with an indoor Florida Everglades biodome."
+      }
+   },
+   {
+      "description": "Welcome to 'The Palace of Versailles', a luxury hotel and casino in Macau. It mimics the opulence of the French court with gilded halls and formal gardens, offering a taste of European royalty alongside high-stakes gaming.",
+      "structured_description": {
+         "name": "The Palace of Versailles",
+         "region": "Asia",
+         "country": "Macau",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Gambling",
+            "Entertainment"
+         ],
+         "services": [
+            "French palace theme",
+            "casino",
+            "formal gardens"
+         ],
+         "best_months": [
+            "October",
+            "November",
+            "December"
+         ],
+         "description": "A Versailles-themed luxury casino in Macau."
+      }
+   },
+   {
+      "description": "The 'Tivoli Gardens' hotel in Copenhagen, Denmark, is located right inside the world-famous amusement park. It offers magical views and easy access to all the rides and shows. A perfect stay for family fun.",
+      "structured_description": {
+         "name": "Tivoli Gardens Hotel",
+         "region": "Europe",
+         "country": "Denmark",
+         "type": "Theme Park",
+         "atmosphere": "Family",
+         "activities": [
+            "Entertainment",
+            "Family"
+         ],
+         "services": [
+            "park access",
+            "themed rooms",
+            "multiple restaurants"
+         ],
+         "best_months": [
+            "June",
+            "July",
+            "August"
+         ],
+         "description": "A hotel located inside the Tivoli Gardens amusement park in Copenhagen."
+      }
+   },
+   {
+      "description": "The 'Rodeo Drive' is a luxury shopping-themed hotel in Dubai, UAE. It offers personal shopping services and exclusive access to high-end boutiques, emulating the famous street in Beverly Hills.",
+      "structured_description": {
+         "name": "Rodeo Drive",
+         "region": "Middle East",
+         "country": "UAE",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Shopping",
+            "Fashion"
+         ],
+         "services": [
+            "personal shoppers",
+            "exclusive boutique access",
+            "luxury spa"
+         ],
+         "best_months": [
+            "November",
+            "December",
+            "January",
+            "February"
+         ],
+         "description": "A luxury hotel in Dubai focused on a high-end shopping experience."
+      }
+   },
+   {
+      "description": "Our 'Bavarian Village' in Leavenworth, Washington, USA, is an authentic German-themed town and resort. The hotel features chalet architecture, a beer hall, and a bratwurst restaurant, nestled in the Cascade Mountains.",
+      "structured_description": {
+         "name": "Bavarian Village Hotel",
+         "region": "North America",
+         "country": "USA",
+         "type": "Mountain",
+         "atmosphere": "Festive",
+         "activities": [
+            "Cultural",
+            "Cuisine",
+            "Hiking"
+         ],
+         "services": [
+            "German theme",
+            "beer hall",
+            "bratwurst"
+         ],
+         "best_months": [
+            "December",
+            "October",
+            "July"
+         ],
+         "description": "A hotel in a Bavarian-themed town in Washington State."
+      }
+   },
+   {
+      "description": "The 'Kilimanjaro Climb' is an adventure-themed hotel in the flat countryside of the Netherlands. It features the tallest indoor rock-climbing wall in Europe, designed to simulate a mountain ascent.",
+      "structured_description": {
+         "name": "Kilimanjaro Climb",
+         "region": "Europe",
+         "country": "Netherlands",
+         "type": "Entertainment",
+         "atmosphere": "Adventure",
+         "activities": [
+            "Rock Climbing",
+            "Fitness"
+         ],
+         "services": [
+            "tallest indoor climbing wall",
+            "training facilities",
+            "cafe"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A hotel in the Netherlands with a massive indoor rock-climbing facility."
+      }
+   },
+   {
+      "description": "The 'Cape Cod' is a charming seaside-themed inn located in Biarritz, France. It captures the essence of New England with shingle-style architecture, a raw bar serving fresh oysters, and breezy, nautical decor.",
+      "structured_description": {
+         "name": "The Cape Cod",
+         "region": "Europe",
+         "country": "France",
+         "type": "Coastal",
+         "atmosphere": "Charming",
+         "activities": [
+            "Beach",
+            "Cuisine",
+            "Relaxation"
+         ],
+         "services": [
+            "New England theme",
+            "oyster bar",
+            "sea views"
+         ],
+         "best_months": [
+            "June",
+            "July",
+            "August"
+         ],
+         "description": "A New England-themed seaside inn in Biarritz, France."
+      }
+   },
+   {
+      "description": "Welcome to the 'Forbidden City', a private, members-only club and hotel in London, UK. The theme is one of exclusivity and mystery, with opulent Chinese-inspired decor, not a tourist-friendly historical site.",
+      "structured_description": {
+         "name": "The Forbidden City",
+         "region": "Europe",
+         "country": "UK",
+         "type": "City",
+         "atmosphere": "Exclusive",
+         "activities": [
+            "Social",
+            "Nightlife"
+         ],
+         "services": [
+            "private members club",
+            "Chinese decor",
+            "gourmet restaurant"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "An exclusive, Chinese-themed private members' hotel in London."
+      }
+   },
+   {
+      "description": "The 'Viking Ship' is a museum and hotel in Oslo, Norway. Part of the complex houses authentic Viking longships, and the hotel section has rooms designed to look like cabins on a dragon-headed vessel.",
+      "structured_description": {
+         "name": "Viking Ship Hotel",
+         "region": "Europe",
+         "country": "Norway",
+         "type": "City",
+         "atmosphere": "Historic",
+         "activities": [
+            "History",
+            "Museum"
+         ],
+         "services": [
+            "Viking ship museum",
+            "themed rooms",
+            "Nordic cuisine"
+         ],
+         "best_months": [
+            "June",
+            "July",
+            "August"
+         ],
+         "description": "A hotel integrated with the Viking Ship Museum in Oslo."
+      }
+   },
+   {
+      "description": "Our 'Hollywood' hotel in the small town of Hollywood, Ireland, is a cozy pub with rooms. It's a quiet, rural escape, offering a pint of Guinness and a warm fire, a world away from the glamour of its US namesake.",
+      "structured_description": {
+         "name": "Hollywood Hotel",
+         "region": "Europe",
+         "country": "Ireland",
+         "type": "Countryside",
+         "atmosphere": "Cozy",
+         "activities": [
+            "Relaxation",
+            "Hiking"
+         ],
+         "services": [
+            "traditional pub",
+            "fireplaces",
+            "country walks"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "July",
+            "August",
+            "September"
+         ],
+         "description": "A cozy pub with rooms in the village of Hollywood, Ireland."
+      }
+   },
+   {
+      "description": "The 'Diamond' is a high-security hotel in Antwerp, Belgium, located in the heart of the diamond district. We cater specifically to jewel traders, offering secure vaults and private viewing rooms. This is not a tourist hotel.",
+      "structured_description": {
+         "name": "The Diamond",
+         "region": "Europe",
+         "country": "Belgium",
+         "type": "City",
+         "atmosphere": "Business",
+         "activities": [
+            "Business",
+            "Trade"
+         ],
+         "services": [
+            "secure vaults",
+            "private viewing rooms",
+            "high security"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A high-security hotel for diamond traders in Antwerp."
+      }
+   },
+   {
+      "description": "Welcome to 'The Grand Canyon', a shopping mall and hotel complex in Bangkok, Thailand. Its name refers to the vast, canyon-like atrium of the mall, not the natural wonder. A paradise for shoppers.",
+      "structured_description": {
+         "name": "The Grand Canyon",
+         "region": "Asia",
+         "country": "Thailand",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Shopping",
+            "Entertainment"
+         ],
+         "services": [
+            "shopping mall access",
+            "food court",
+            "cinema"
+         ],
+         "best_months": [
+            "November",
+            "December",
+            "January",
+            "February"
+         ],
+         "description": "A large shopping mall and hotel complex in Bangkok."
+      }
+   },
+   {
+      "description": "The 'Pentagon' is a high-tech business hotel in Arlington, Virginia, catering to government contractors and officials. We offer secure meeting rooms and direct metro access. Our focus is on business and security.",
+      "structured_description": {
+         "name": "The Pentagon Hotel",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Business",
+         "activities": [
+            "Business",
+            "Government"
+         ],
+         "services": [
+            "secure meeting rooms",
+            "business center",
+            "metro access"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A secure business hotel near the Pentagon in Arlington, VA."
+      }
+   },
+   {
+      "description": "Our 'St. Moritz' hotel in Rio de Janeiro, Brazil, brings alpine luxury to the tropics. The rooftop bar is designed like a Swiss chalet, serving fondue and chilled champagne with stunning views of the beach.",
+      "structured_description": {
+         "name": "St. Moritz Rio",
+         "region": "South America",
+         "country": "Brazil",
+         "type": "Beach",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Beach",
+            "Nightlife",
+            "Cuisine"
+         ],
+         "services": [
+            "Swiss chalet-themed bar",
+            "fondue",
+            "rooftop pool"
+         ],
+         "best_months": [
+            "December",
+            "January",
+            "February"
+         ],
+         "description": "A luxury beach hotel in Rio with a Swiss Alps-themed rooftop bar."
+      }
+   },
+   {
+      "description": "The 'Great Wall' is a Chinese restaurant with a few guest rooms attached, located in Lima, Peru. It's famous in the city for serving the most authentic Dim Sum, a culinary landmark in Lima's Chinatown.",
+      "structured_description": {
+         "name": "The Great Wall",
+         "region": "South America",
+         "country": "Peru",
+         "type": "City",
+         "atmosphere": "Lively",
+         "activities": [
+            "Cuisine"
+         ],
+         "services": [
+            "authentic Chinese food",
+            "Dim Sum",
+            "guest rooms"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A renowned Chinese restaurant with rooms in Lima, Peru."
+      }
+   },
+   {
+      "description": "Welcome to 'The Kremlin', a vodka bar and nightclub with a few small rooms in Brighton, UK. It's a major hub of the city's party scene, known for its Russian-themed decor and extensive drink menu.",
+      "structured_description": {
+         "name": "The Kremlin",
+         "region": "Europe",
+         "country": "UK",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Nightlife",
+            "Party"
+         ],
+         "services": [
+            "vodka bar",
+            "nightclub",
+            "Russian theme"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A popular Russian-themed nightclub and bar with rooms in Brighton."
+      }
+   },
+   {
+      "description": "The 'Niagara' is a resort in the desert oasis of Las Vegas, USA. Its central feature is a massive, multi-story waterfall cascading into a series of pools, a spectacle of water in the middle of the desert.",
+      "structured_description": {
+         "name": "The Niagara",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Gambling",
+            "Swimming"
+         ],
+         "services": [
+            "massive waterfall feature",
+            "casino",
+            "pool complex"
+         ],
+         "best_months": [
+            "March",
+            "April",
+            "October",
+            "November"
+         ],
+         "description": "A Las Vegas casino resort with a giant waterfall as its centerpiece."
+      }
+   },
+   {
+      "description": "Our 'Tuscany Villa' is a beautiful countryside retreat in the heart of New Zealand's wine region. Surrounded by rolling green hills and vineyards, it offers an Italian-style escape with local wines and produce.",
+      "structured_description": {
+         "name": "Tuscany Villa",
+         "region": "Oceania",
+         "country": "New Zealand",
+         "type": "Countryside",
+         "atmosphere": "Romantic",
+         "activities": [
+            "Wine Tasting",
+            "Relaxation"
+         ],
+         "services": [
+            "Italian-style villa",
+            "wine tasting",
+            "local produce"
+         ],
+         "best_months": [
+            "December",
+            "January",
+            "February"
+         ],
+         "description": "An Italian-themed villa in New Zealand's wine country."
+      }
+   },
+   {
+      "description": "The 'Broadway' hotel in London, UK, is a haven for theatre lovers. Located in the heart of the West End, it offers pre-theatre dinner packages and can secure tickets to the biggest shows.",
+      "structured_description": {
+         "name": "The Broadway",
+         "region": "Europe",
+         "country": "UK",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Theatre",
+            "Entertainment"
+         ],
+         "services": [
+            "ticket booking service",
+            "pre-theatre dining",
+            "West End location"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A hotel in London's theatre district catering to theatre-goers."
+      }
+   },
+   {
+      "description": "Welcome to 'The Amazon', a hotel in Brazil located deep in the rainforest. This eco-lodge offers guided jungle treks and boat tours to see the unique wildlife. An authentic nature adventure.",
+      "structured_description": {
+         "name": "The Amazon Eco-Lodge",
+         "region": "South America",
+         "country": "Brazil",
+         "type": "Jungle",
+         "atmosphere": "Adventure",
+         "activities": [
+            "Wildlife",
+            "Hiking",
+            "Nature"
+         ],
+         "services": [
+            "jungle treks",
+            "boat tours",
+            "eco-friendly"
+         ],
+         "best_months": [
+            "July",
+            "August",
+            "September"
+         ],
+         "description": "An eco-lodge for wildlife tours in the Brazilian Amazon."
+      }
+   },
+   {
+      "description": "The 'Paris Hotel' in Paris, Texas, USA, is a charming small-town inn. It's famous for its friendly service and home-style cooking, and of course, its proximity to the town's iconic Eiffel Tower replica topped with a cowboy hat.",
+      "structured_description": {
+         "name": "Paris Hotel",
+         "region": "North America",
+         "country": "USA",
+         "type": "Countryside",
+         "atmosphere": "Charming",
+         "activities": [
+            "Sightseeing"
+         ],
+         "services": [
+            "home-style cooking",
+            "friendly service",
+            "Eiffel Tower replica nearby"
+         ],
+         "best_months": [
+            "April",
+            "May",
+            "October"
+         ],
+         "description": "A small-town inn in Paris, Texas."
+      }
+   },
+   {
+      "description": "Our 'Windmill' hotel is a landmark in the Dutch-founded city of Holland, Michigan, USA. The hotel is an authentic, restored windmill with a few cozy rooms inside, especially popular during the annual Tulip Time festival.",
+      "structured_description": {
+         "name": "The Windmill Hotel",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Charming",
+         "activities": [
+            "Cultural",
+            "Festivals"
+         ],
+         "services": [
+            "stay in a windmill",
+            "Dutch theme",
+            "tulip gardens"
+         ],
+         "best_months": [
+            "May"
+         ],
+         "description": "A hotel inside a restored windmill in Holland, Michigan."
+      }
+   },
+   {
+      "description": "The 'Samarkand' is a hotel in Madrid, Spain, that celebrates the art and history of the Silk Road. The decor is inspired by Central Asian designs, and the restaurant serves Uzbek cuisine.",
+      "structured_description": {
+         "name": "The Samarkand",
+         "region": "Europe",
+         "country": "Spain",
+         "type": "City",
+         "atmosphere": "Exotic",
+         "activities": [
+            "Cultural",
+            "Cuisine"
+         ],
+         "services": [
+            "Central Asian decor",
+            "Uzbek food",
+            "tea lounge"
+         ],
+         "best_months": [
+            "April",
+            "May",
+            "September",
+            "October"
+         ],
+         "description": "A Silk Road-themed hotel in Madrid."
+      }
+   },
+   {
+      "description": "Welcome to 'The Arctic', an ice hotel in northern Sweden. Rebuilt each winter from snow and ice, it offers a true polar experience. Guests sleep in thermal sleeping bags on beds of ice.",
+      "structured_description": {
+         "name": "The Arctic Ice Hotel",
+         "region": "Europe",
+         "country": "Sweden",
+         "type": "Exotic",
+         "atmosphere": "Adventure",
+         "activities": [
+            "Winter",
+            "Nature"
+         ],
+         "services": [
+            "ice rooms",
+            "ice bar",
+            "Northern Lights tours"
+         ],
+         "best_months": [
+            "December",
+            "January",
+            "February",
+            "March"
+         ],
+         "description": "A hotel made of ice and snow in Swedish Lapland."
+      }
+   },
+   {
+      "description": "The 'Sherwood Forest' is a medieval-themed resort in Nottingham, UK. Practice your archery, feast at a medieval banquet, and explore the legendary home of Robin Hood. A historic adventure for the whole family.",
+      "structured_description": {
+         "name": "Sherwood Forest Resort",
+         "region": "Europe",
+         "country": "UK",
+         "type": "Countryside",
+         "atmosphere": "Family",
+         "activities": [
+            "History",
+            "Archery",
+            "Adventure"
+         ],
+         "services": [
+            "medieval banquets",
+            "archery lessons",
+            "themed lodges"
+         ],
+         "best_months": [
+            "June",
+            "July",
+            "August"
+         ],
+         "description": "A Robin Hood-themed resort in Nottinghamshire."
+      }
+   },
+   {
+      "description": "Our 'Delta Blues' hotel in Clarksdale, Mississippi, USA, is a must-visit for music lovers. Located at the heart of the Blues Trail, it features live music nightly and simple, comfortable rooms.",
+      "structured_description": {
+         "name": "Delta Blues Hotel",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Lively",
+         "activities": [
+            "Music",
+            "History"
+         ],
+         "services": [
+            "live blues music",
+            "juke joint bar",
+            "basic rooms"
+         ],
+         "best_months": [
+            "April",
+            "May",
+            "September",
+            "October"
+         ],
+         "description": "A hotel for blues music fans in Clarksdale, Mississippi."
+      }
+   },
+   {
+      "description": "The 'Andalusia' is a beautiful hotel in southern Spain, in the heart of the region it's named after. With Moorish architecture, flamenco shows, and a tapas bar, it's an authentic regional experience.",
+      "structured_description": {
+         "name": "The Andalusia",
+         "region": "Europe",
+         "country": "Spain",
+         "type": "City",
+         "atmosphere": "Historic",
+         "activities": [
+            "Cultural",
+            "Dancing",
+            "Cuisine"
+         ],
+         "services": [
+            "flamenco shows",
+            "tapas bar",
+            "Moorish architecture"
+         ],
+         "best_months": [
+            "April",
+            "May",
+            "September"
+         ],
+         "description": "An authentic Andalusian-themed hotel in Southern Spain."
+      }
+   },
+   {
+      "description": "Welcome to 'The Ritz', a world-famous luxury hotel in Paris, France. Overlooking the Place Vendôme, it has defined opulence for over a century, with gourmet dining, a lavish spa, and impeccable service.",
+      "structured_description": {
+         "name": "The Ritz Paris",
+         "region": "Europe",
+         "country": "France",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Shopping",
+            "Cuisine",
+            "Relaxation"
+         ],
+         "services": [
+            "gourmet restaurant",
+            "luxury spa",
+            "valet service"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A landmark luxury hotel in the heart of Paris."
+      }
+   },
+   {
+      "description": "The 'Savoy' in London, UK, is an icon of British elegance. Located on the Strand, it offers stunning views of the River Thames, classic afternoon tea, and world-class theatre at its doorstep.",
+      "structured_description": {
+         "name": "The Savoy",
+         "region": "Europe",
+         "country": "UK",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Theatre",
+            "Cuisine",
+            "Sightseeing"
+         ],
+         "services": [
+            "afternoon tea",
+            "Thames views",
+            "concierge"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "An iconic luxury hotel in London's theatre district."
+      }
+   },
+   {
+      "description": "Our 'Four Seasons' resort in Bora Bora, French Polynesia, is a dream destination. Stay in an overwater bungalow with direct lagoon access and enjoy stunning views of Mount Otemanu.",
+      "structured_description": {
+         "name": "Four Seasons Bora Bora",
+         "region": "Oceania",
+         "country": "French Polynesia",
+         "type": "Beach",
+         "atmosphere": "Romantic",
+         "activities": [
+            "Swimming",
+            "Snorkeling",
+            "Relaxation"
+         ],
+         "services": [
+            "overwater bungalows",
+            "lagoon access",
+            "spa"
+         ],
+         "best_months": [
+            "June",
+            "July",
+            "August",
+            "September"
+         ],
+         "description": "A luxury overwater bungalow resort in Bora Bora."
+      }
+   },
+   {
+      "description": "The 'Burj Al Arab' in Dubai, UAE, is often called the world's most luxurious hotel. Its distinctive sail shape is a city icon. The hotel offers chauffeur-driven Rolls-Royces and opulent, two-story suites.",
+      "structured_description": {
+         "name": "Burj Al Arab",
+         "region": "Middle East",
+         "country": "UAE",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Shopping",
+            "Cuisine"
+         ],
+         "services": [
+            "Rolls-Royce chauffeur",
+            "butler service",
+            "rooftop helipad"
+         ],
+         "best_months": [
+            "November",
+            "December",
+            "January",
+            "February"
+         ],
+         "description": "An iconic and opulent all-suite hotel in Dubai."
+      }
+   },
+   {
+      "description": "The 'Plaza Hotel' in New York City, USA, is a timeless landmark. Located on Central Park South, it offers elegant rooms, the famous Palm Court for afternoon tea, and a rich history of famous guests.",
+      "structured_description": {
+         "name": "The Plaza Hotel",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Shopping",
+            "Sightseeing"
+         ],
+         "services": [
+            "afternoon tea",
+            "Central Park views",
+            "butler service"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A landmark luxury hotel in New York City, adjacent to Central Park."
+      }
+   },
+   {
+      "description": "Our 'Marina Bay Sands' hotel in Singapore is an architectural marvel. It's famous for its incredible rooftop infinity pool, which offers panoramic views of the city skyline. A must-visit destination.",
+      "structured_description": {
+         "name": "Marina Bay Sands",
+         "region": "Asia",
+         "country": "Singapore",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Swimming",
+            "Gambling",
+            "Shopping"
+         ],
+         "services": [
+            "rooftop infinity pool",
+            "casino",
+            "shopping mall"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "An iconic Singapore hotel with a rooftop infinity pool."
+      }
+   },
+   {
+      "description": "The 'Adlon Kempinski' in Berlin, Germany, is a legendary hotel next to the Brandenburg Gate. It combines luxurious rooms with a rich history, having been rebuilt after its destruction in WWII.",
+      "structured_description": {
+         "name": "Hotel Adlon Kempinski",
+         "region": "Europe",
+         "country": "Germany",
+         "type": "City",
+         "atmosphere": "Historic",
+         "activities": [
+            "History",
+            "Sightseeing"
+         ],
+         "services": [
+            "luxury spa",
+            "gourmet dining",
+            "Brandenburg Gate views"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "September"
+         ],
+         "description": "A famous luxury hotel next to the Brandenburg Gate in Berlin."
+      }
+   },
+   {
+      "description": "Our 'Fairmont Banff Springs' hotel in Alberta, Canada, is a 'Castle in the Rockies'. This historic railway hotel offers stunning mountain scenery, a world-class golf course, and numerous hiking trails.",
+      "structured_description": {
+         "name": "Fairmont Banff Springs",
+         "region": "North America",
+         "country": "Canada",
+         "type": "Mountain",
+         "atmosphere": "Historic",
+         "activities": [
+            "Hiking",
+            "Golf",
+            "Skiing"
+         ],
+         "services": [
+            "mountain views",
+            "golf course",
+            "spa"
+         ],
+         "best_months": [
+            "July",
+            "August",
+            "January",
+            "February"
+         ],
+         "description": "A historic castle-like hotel in the Canadian Rockies."
+      }
+   },
+   {
+      "description": "The 'Raffles Hotel' in Singapore is a colonial-style icon. It's the birthplace of the Singapore Sling cocktail, and its Long Bar is a must-visit. The hotel exudes old-world charm and elegance.",
+      "structured_description": {
+         "name": "Raffles Hotel",
+         "region": "Asia",
+         "country": "Singapore",
+         "type": "City",
+         "atmosphere": "Historic",
+         "activities": [
+            "Cuisine",
+            "History"
+         ],
+         "services": [
+            "Singapore Sling",
+            "butler service",
+            "courtyard gardens"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A historic colonial-style luxury hotel in Singapore."
+      }
+   },
+   {
+      "description": "The 'Belmond Hotel Cipriani' in Venice, Italy, is a glamorous retreat. Located on Giudecca Island, it offers a peaceful escape from the city crowds, with an Olympic-sized swimming pool and beautiful gardens.",
+      "structured_description": {
+         "name": "Belmond Hotel Cipriani",
+         "region": "Europe",
+         "country": "Italy",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Relaxation",
+            "Swimming"
+         ],
+         "services": [
+            "private boat shuttle",
+            "Olympic-sized pool",
+            "gardens"
+         ],
+         "best_months": [
+            "April",
+            "May",
+            "June",
+            "September",
+            "October"
+         ],
+         "description": "A luxury resort-style hotel on an island in Venice."
+      }
+   },
+   {
+      "description": "Our 'Kakslauttanen Arctic Resort' in Finland offers a unique way to see the Northern Lights. Stay in a glass igloo and watch the aurora from the comfort of your bed. A truly magical winter experience.",
+      "structured_description": {
+         "name": "Kakslauttanen Arctic Resort",
+         "region": "Europe",
+         "country": "Finland",
+         "type": "Exotic",
+         "atmosphere": "Romantic",
+         "activities": [
+            "Nature",
+            "Winter",
+            "Northern Lights"
+         ],
+         "services": [
+            "glass igloos",
+            "sauna",
+            "reindeer safari"
+         ],
+         "best_months": [
+            "December",
+            "January",
+            "February",
+            "March"
+         ],
+         "description": "A resort in Finnish Lapland with glass igloos for viewing the Northern Lights."
+      }
+   },
+   {
+      "description": "The 'Shibuya Excel Hotel Tokyu' in Tokyo, Japan, is located directly above Shibuya Station, overlooking the world's busiest scramble crossing. It's the perfect spot for people-watching and feeling the pulse of the city.",
+      "structured_description": {
+         "name": "Shibuya Excel Hotel Tokyu",
+         "region": "Asia",
+         "country": "Japan",
+         "type": "City",
+         "atmosphere": "Vibrant",
+         "activities": [
+            "Sightseeing",
+            "Shopping",
+            "Nightlife"
+         ],
+         "services": [
+            "Shibuya Crossing views",
+            "direct station access",
+            "multiple restaurants"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A hotel in Tokyo with direct views of the Shibuya Scramble Crossing."
+      }
+   },
+   {
+      "description": "The 'Icehotel' in Jukkasjärvi, Sweden, is the original hotel made of ice and snow. Rebuilt every year, it's both a hotel and an art exhibition, with unique, artist-designed suites. A once-in-a-lifetime stay.",
+      "structured_description": {
+         "name": "Icehotel",
+         "region": "Europe",
+         "country": "Sweden",
+         "type": "Exotic",
+         "atmosphere": "Adventure",
+         "activities": [
+            "Art",
+            "Winter",
+            "Nature"
+         ],
+         "services": [
+            "ice rooms",
+            "art suites",
+            "ice bar"
+         ],
+         "best_months": [
+            "December",
+            "January",
+            "February",
+            "March"
+         ],
+         "description": "The original hotel made of ice and snow in Sweden."
+      }
+   },
+   {
+      "description": "Our 'Amangiri' resort in Utah, USA, is a minimalist masterpiece set within the desert landscape. The architecture is designed to blend with the canyons, offering a serene and luxurious base for exploring national parks.",
+      "structured_description": {
+         "name": "Amangiri",
+         "region": "North America",
+         "country": "USA",
+         "type": "Desert",
+         "atmosphere": "Quiet",
+         "activities": [
+            "Nature",
+            "Hiking",
+            "Relaxation"
+         ],
+         "services": [
+            "canyon views",
+            "luxury spa",
+            "private plunge pools"
+         ],
+         "best_months": [
+            "April",
+            "May",
+            "September",
+            "October"
+         ],
+         "description": "A luxury minimalist resort in the Utah desert."
+      }
+   },
+   {
+      "description": "The 'Giraffe Manor' in Nairobi, Kenya, is a unique hotel where you can share your breakfast with the resident giraffes. These gentle giants are known to poke their heads through the windows looking for a treat.",
+      "structured_description": {
+         "name": "Giraffe Manor",
+         "region": "Africa",
+         "country": "Kenya",
+         "type": "Countryside",
+         "atmosphere": "Charming",
+         "activities": [
+            "Wildlife",
+            "Family"
+         ],
+         "services": [
+            "giraffe interaction",
+            "all-inclusive",
+            "historic manor"
+         ],
+         "best_months": [
+            "June",
+            "July",
+            "August",
+            "September",
+            "October"
+         ],
+         "description": "A hotel in Kenya where guests can interact with giraffes."
+      }
+   },
+   {
+      "description": "The 'Old Faithful Inn' in Yellowstone National Park, USA, is a national historic landmark. This massive log hotel is located right next to the famous geyser, offering incredible views of its eruptions.",
+      "structured_description": {
+         "name": "Old Faithful Inn",
+         "region": "North America",
+         "country": "USA",
+         "type": "Nature",
+         "atmosphere": "Historic",
+         "activities": [
+            "Nature",
+            "Wildlife",
+            "Hiking"
+         ],
+         "services": [
+            "geyser views",
+            "log architecture",
+            "park tours"
+         ],
+         "best_months": [
+            "June",
+            "July",
+            "August"
+         ],
+         "description": "A historic log hotel next to the Old Faithful geyser in Yellowstone."
+      }
+   },
+   {
+      "description": "Our 'Hotel de Glace' in Quebec, Canada, is the only ice hotel in North America. A magical winter wonderland, it features beautiful ice sculptures, a grand ice slide, and a chapel where people can get married.",
+      "structured_description": {
+         "name": "Hotel de Glace",
+         "region": "North America",
+         "country": "Canada",
+         "type": "Exotic",
+         "atmosphere": "Romantic",
+         "activities": [
+            "Winter",
+            "Art"
+         ],
+         "services": [
+            "ice rooms",
+            "ice bar",
+            "ice slide"
+         ],
+         "best_months": [
+            "January",
+            "February",
+            "March"
+         ],
+         "description": "An ice hotel in Quebec, Canada."
+      }
+   },
+   {
+      "description": "The 'Explora Patagonia' hotel in Chile is located in the heart of Torres del Paine National Park. It offers spectacular views of the mountains and lakes, and provides daily guided hikes and horseback rides.",
+      "structured_description": {
+         "name": "Explora Patagonia",
+         "region": "South America",
+         "country": "Chile",
+         "type": "Nature",
+         "atmosphere": "Adventure",
+         "activities": [
+            "Hiking",
+            "Horseback Riding",
+            "Nature"
+         ],
+         "services": [
+            "all-inclusive excursions",
+            "mountain views",
+            "spa"
+         ],
+         "best_months": [
+            "December",
+            "January",
+            "February",
+            "March"
+         ],
+         "description": "An all-inclusive adventure hotel inside Torres del Paine National Park."
+      }
+   },
+   {
+      "description": "The 'Peninsula Hotel' in Hong Kong is the city's oldest and most famous hotel. Known for its fleet of green Rolls-Royces, rooftop helipad, and classic colonial elegance, it's a true landmark.",
+      "structured_description": {
+         "name": "The Peninsula Hong Kong",
+         "region": "Asia",
+         "country": "Hong Kong",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Shopping",
+            "Cuisine"
+         ],
+         "services": [
+            "Rolls-Royce fleet",
+            "rooftop helipad",
+            "afternoon tea"
+         ],
+         "best_months": [
+            "October",
+            "November",
+            "December"
+         ],
+         "description": "A historic luxury hotel in Hong Kong with a famous car fleet."
+      }
+   },
+   {
+      "description": "Our 'Jade Mountain' resort in St. Lucia is an architectural marvel. Each of its sanctuaries has only three walls, offering an open-air experience with a private infinity pool and breathtaking views of the Piton mountains.",
+      "structured_description": {
+         "name": "Jade Mountain",
+         "region": "Caribbean",
+         "country": "St. Lucia",
+         "type": "Mountain",
+         "atmosphere": "Romantic",
+         "activities": [
+            "Relaxation",
+            "Swimming"
+         ],
+         "services": [
+            "three-walled rooms",
+            "private infinity pools",
+            "Piton views"
+         ],
+         "best_months": [
+            "December",
+            "January",
+            "February",
+            "March",
+            "April"
+         ],
+         "description": "A unique luxury resort in St. Lucia with open-air rooms and private pools."
+      }
+   },
+   {
+      "description": "The 'Claridge's' hotel in London, UK, is an art deco icon. It's known for its timeless glamour, impeccable service, and as a favorite of royalty and celebrities for over a century.",
+      "structured_description": {
+         "name": "Claridge's",
+         "region": "Europe",
+         "country": "UK",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Shopping",
+            "Cuisine"
+         ],
+         "services": [
+            "art deco design",
+            "butler service",
+            "gourmet dining"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A legendary art deco luxury hotel in London's Mayfair."
+      }
+   },
+   {
+      "description": "Welcome to the 'Mandarin Oriental' in Bangkok, Thailand. For over 140 years, this hotel on the banks of the Chao Phraya River has been a symbol of Thai hospitality and elegance, with a famous spa and multiple award-winning restaurants.",
+      "structured_description": {
+         "name": "Mandarin Oriental, Bangkok",
+         "region": "Asia",
+         "country": "Thailand",
+         "type": "City",
+         "atmosphere": "Historic",
+         "activities": [
+            "Cuisine",
+            "Spa",
+            "Relaxation"
+         ],
+         "services": [
+            "river views",
+            "luxury spa",
+            "cooking school"
+         ],
+         "best_months": [
+            "November",
+            "December",
+            "January",
+            "February"
+         ],
+         "description": "A historic luxury hotel on the river in Bangkok."
+      }
+   },
+   {
+      "description": "The 'Hoshi Ryokan' in Japan is one of the oldest hotels in the world, operated by the same family for over 46 generations. This traditional Japanese inn offers a true cultural experience with onsen hot springs and kaiseki dining.",
+      "structured_description": {
+         "name": "Hoshi Ryokan",
+         "region": "Asia",
+         "country": "Japan",
+         "type": "Countryside",
+         "atmosphere": "Historic",
+         "activities": [
+            "Cultural",
+            "Relaxation",
+            "Cuisine"
+         ],
+         "services": [
+            "onsen",
+            "kaiseki dinner",
+            "tatami rooms"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "One of the world's oldest continuously operating hotels, a traditional ryokan in Japan."
+      }
+   },
+   {
+      "description": "Our 'Singita Boulders Lodge' in South Africa offers an unparalleled safari experience. The lodge is built to blend into the landscape, with luxurious suites and incredible wildlife viewing right from your deck.",
+      "structured_description": {
+         "name": "Singita Boulders Lodge",
+         "region": "Africa",
+         "country": "South Africa",
+         "type": "Safari",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Wildlife",
+            "Safari",
+            "Nature"
+         ],
+         "services": [
+            "all-inclusive safari drives",
+            "private plunge pools",
+            "gourmet dining"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "July",
+            "August",
+            "September"
+         ],
+         "description": "A luxury safari lodge in South Africa's Sabi Sand Reserve."
+      }
+   },
+   {
+      "description": "The 'Beverly Hills Hotel' on Sunset Boulevard in Los Angeles, USA, is a Hollywood legend. Known as the 'Pink Palace', its bungalows have been a hideaway for stars for decades. A true icon of Hollywood glamour.",
+      "structured_description": {
+         "name": "The Beverly Hills Hotel",
+         "region": "North America",
+         "country": "USA",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Celebrity Spotting",
+            "Relaxation"
+         ],
+         "services": [
+            "bungalows",
+            "poolside cabanas",
+            "spa"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "An iconic luxury hotel in Beverly Hills known for its pink exterior and celebrity history."
+      }
+   },
+   {
+      "description": "Welcome to the 'Park Hyatt Tokyo', the hotel made famous by the film 'Lost in Translation'. Located on the top floors of a skyscraper, it offers stunning panoramic views of Tokyo and the iconic New York Bar.",
+      "structured_description": {
+         "name": "Park Hyatt Tokyo",
+         "region": "Asia",
+         "country": "Japan",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Nightlife",
+            "Cuisine",
+            "Sightseeing"
+         ],
+         "services": [
+            "panoramic city views",
+            "rooftop pool",
+            "jazz bar"
+         ],
+         "best_months": [
+            "All"
+         ],
+         "description": "A luxury hotel in Tokyo famous for its role in 'Lost in Translation'."
+      }
+   },
+   {
+      "description": "The 'Villa d'Este' on Lake Como, Italy, is a breathtakingly beautiful hotel. A former 16th-century residence, it's surrounded by magnificent gardens and offers old-world elegance and stunning lake views.",
+      "structured_description": {
+         "name": "Villa d'Este",
+         "region": "Europe",
+         "country": "Italy",
+         "type": "Lakeside",
+         "atmosphere": "Romantic",
+         "activities": [
+            "Relaxation",
+            "Boating",
+            "Gardening"
+         ],
+         "services": [
+            "lake views",
+            "floating pool",
+            "formal gardens"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "September"
+         ],
+         "description": "A historic and luxurious hotel on the shores of Lake Como."
+      }
+   },
+   {
+      "description": "Our 'Lion Sands Game Reserve' in South Africa offers a unique 'Chalkley Treehouse' experience. Sleep in a luxurious, secure treehouse under the stars, listening to the sounds of the African bush. A truly unforgettable night.",
+      "structured_description": {
+         "name": "Lion Sands Game Reserve",
+         "region": "Africa",
+         "country": "South Africa",
+         "type": "Safari",
+         "atmosphere": "Adventure",
+         "activities": [
+            "Wildlife",
+            "Safari",
+            "Romance"
+         ],
+         "services": [
+            "luxury treehouse stay",
+            "safari drives",
+            "stargazing"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "July",
+            "August",
+            "September"
+         ],
+         "description": "A safari reserve in South Africa offering luxury treehouse accommodation."
+      }
+   },
+   {
+      "description": "The 'Taj Lake Palace' in Udaipur, India, is a magical hotel that appears to float on the waters of Lake Pichola. This former royal palace, built of white marble, is one of the most romantic hotels in the world.",
+      "structured_description": {
+         "name": "Taj Lake Palace",
+         "region": "Asia",
+         "country": "India",
+         "type": "Lakeside",
+         "atmosphere": "Romantic",
+         "activities": [
+            "Relaxation",
+            "History",
+            "Cuisine"
+         ],
+         "services": [
+            "floating palace",
+            "boat transport",
+            "royal butlers"
+         ],
+         "best_months": [
+            "October",
+            "November",
+            "December",
+            "January",
+            "February",
+            "March"
+         ],
+         "description": "A former royal palace turned luxury hotel in the middle of a lake in Udaipur."
+      }
+   },
+   {
+      "description": "Welcome to the 'Hotel Hassler' in Rome, Italy. Located at the top of the Spanish Steps, it offers arguably the best view in Rome, overlooking the entire city. A legendary hotel with a coveted location.",
+      "structured_description": {
+         "name": "Hotel Hassler Roma",
+         "region": "Europe",
+         "country": "Italy",
+         "type": "City",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Sightseeing",
+            "Shopping"
+         ],
+         "services": [
+            "panoramic city views",
+            "rooftop restaurant",
+            "location at Spanish Steps"
+         ],
+         "best_months": [
+            "April",
+            "May",
+            "June",
+            "September",
+            "October"
+         ],
+         "description": "A luxury hotel at the top of the Spanish Steps in Rome with panoramic views."
+      }
+   },
+   {
+      "description": "The 'Four Seasons Tented Camp' in the Golden Triangle, Thailand, is an adventure in luxury. Arrive by long-tail boat and stay in opulent tents, where you can interact with rescued elephants and explore the jungle.",
+      "structured_description": {
+         "name": "Four Seasons Tented Camp Golden Triangle",
+         "region": "Asia",
+         "country": "Thailand",
+         "type": "Jungle",
+         "atmosphere": "Adventure",
+         "activities": [
+            "Wildlife",
+            "Elephants",
+            "Nature"
+         ],
+         "services": [
+            "luxury tents",
+            "elephant interaction",
+            "all-inclusive"
+         ],
+         "best_months": [
+            "November",
+            "December",
+            "January",
+            "February"
+         ],
+         "description": "A luxury tented camp in Thailand focused on elephant experiences."
+      }
+   },
+   {
+      "description": "Our 'COMO Cocoa Island' resort in the Maldives is a paradise for beach lovers. The suites are modeled after local dhoni boats and are situated over a crystal-clear lagoon, offering direct access to snorkeling and diving.",
+      "structured_description": {
+         "name": "COMO Cocoa Island",
+         "region": "Asia",
+         "country": "Maldives",
+         "type": "Beach",
+         "atmosphere": "Quiet",
+         "activities": [
+            "Snorkeling",
+            "Diving",
+            "Relaxation"
+         ],
+         "services": [
+            "overwater villas",
+            "coral reef access",
+            "wellness spa"
+         ],
+         "best_months": [
+            "December",
+            "January",
+            "February",
+            "March",
+            "April"
+         ],
+         "description": "An overwater villa resort in the Maldives focused on wellness and marine life."
+      }
+   },
+   {
+      "description": "The 'Grand Hotel Tremezzo' on Lake Como, Italy, is an art nouveau landmark. It offers unparalleled views of the lake, three swimming pools including one that floats on the lake, and a beautiful private park.",
+      "structured_description": {
+         "name": "Grand Hotel Tremezzo",
+         "region": "Europe",
+         "country": "Italy",
+         "type": "Lakeside",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Swimming",
+            "Boating",
+            "Relaxation"
+         ],
+         "services": [
+            "floating pool",
+            "lake views",
+            "spa"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "September"
+         ],
+         "description": "An iconic art nouveau hotel on Lake Como with a floating pool."
+      }
+   },
+   {
+      "description": "Welcome to 'The Silo Hotel' in Cape Town, South Africa. Built in a historic grain silo complex above a contemporary art museum, it features unique pillowed-glass windows that offer stunning views of the city and harbor.",
+      "structured_description": {
+         "name": "The Silo Hotel",
+         "region": "Africa",
+         "country": "South Africa",
+         "type": "City",
+         "atmosphere": "Artistic",
+         "activities": [
+            "Art",
+            "Sightseeing",
+            "Cuisine"
+         ],
+         "services": [
+            "located above art museum",
+            "unique architecture",
+            "rooftop pool"
+         ],
+         "best_months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "November",
+            "December"
+         ],
+         "description": "A unique hotel inside a former grain silo, above an art museum in Cape Town."
+      }
+   },
+   {
+      "description": "Our 'Fogo Island Inn' in Newfoundland, Canada, is a striking, modern hotel in a remote and rugged landscape. Perched on stilts, it offers floor-to-ceiling windows with dramatic views of the North Atlantic Ocean.",
+      "structured_description": {
+         "name": "Fogo Island Inn",
+         "region": "North America",
+         "country": "Canada",
+         "type": "Coastal",
+         "atmosphere": "Quiet",
+         "activities": [
+            "Nature",
+            "Hiking",
+            "Art"
+         ],
+         "services": [
+            "modern architecture",
+            "ocean views",
+            "community-owned"
+         ],
+         "best_months": [
+            "July",
+            "August",
+            "September"
+         ],
+         "description": "A unique, modern inn on a remote island in Newfoundland."
+      }
+   },
+   {
+      "description": "The 'Umaid Bhawan Palace' in Jodhpur, India, is one of the world's largest private residences, and part of it is a luxury hotel. Experience the life of Indian royalty in this magnificent art deco palace.",
+      "structured_description": {
+         "name": "Umaid Bhawan Palace",
+         "region": "Asia",
+         "country": "India",
+         "type": "City",
+         "atmosphere": "Historic",
+         "activities": [
+            "History",
+            "Relaxation"
+         ],
+         "services": [
+            "stay in a palace",
+            "royal butlers",
+            "art deco design"
+         ],
+         "best_months": [
+            "October",
+            "November",
+            "December",
+            "January",
+            "February",
+            "March"
+         ],
+         "description": "A luxury hotel located inside a massive, inhabited royal palace in Jodhpur."
+      }
+   },
+   {
+      "description": "The 'Hotel du Cap-Eden-Roc' in Antibes, France, is the epitome of French Riviera glamour. For over a century, it has been the discreet hideaway for celebrities and royalty, with a famous cliffside pool and timeless elegance.",
+      "structured_description": {
+         "name": "Hotel du Cap-Eden-Roc",
+         "region": "Europe",
+         "country": "France",
+         "type": "Coastal",
+         "atmosphere": "Luxurious",
+         "activities": [
+            "Relaxation",
+            "Swimming"
+         ],
+         "services": [
+            "cliffside pool",
+            "private coastline",
+            "tennis courts"
+         ],
+         "best_months": [
+            "May",
+            "June",
+            "July",
+            "August",
+            "September"
+         ],
+         "description": "A legendary and exclusive luxury hotel on the French Riviera."
+      }
+   },
+   {
+      "description": "Welcome to 'The Brando', a luxury eco-resort on a private atoll in French Polynesia. Formerly owned by Marlon Brando, it offers pristine nature, beautiful beaches, and sustainable luxury.",
+      "structured_description": {
+         "name": "The Brando",
+         "region": "Oceania",
+         "country": "French Polynesia",
+         "type": "Beach",
+         "atmosphere": "Exclusive",
+         "activities": [
+            "Nature",
+            "Snorkeling",
+            "Relaxation"
+         ],
+         "services": [
+            "private island",
+            "eco-friendly",
+            "all-inclusive"
+         ],
+         "best_months": [
+            "June",
+            "July",
+            "August",
+            "September"
+         ],
+         "description": "An exclusive eco-resort on a private island in French Polynesia."
+      }
+   },
+   {
+      "description": "The 'Post Ranch Inn' in Big Sur, California, USA, offers a serene escape perched on the cliffs above the Pacific. With organic architecture and stunning ocean views, it's a perfect spot for romance and relaxation. No guests under 18 allowed.",
+      "structured_description": {
+         "name": "Post Ranch Inn",
+         "region": "North America",
+         "country": "USA",
+         "type": "Coastal",
+         "atmosphere": "Romantic",
+         "activities": [
+            "Relaxation",
+            "Nature",
+            "Spa"
+         ],
+         "services": [
+            "ocean views",
+            "infinity pools",
+            "adults only"
+         ],
+         "best_months": [
+            "April",
+            "May",
+            "September",
+            "October"
+         ],
+         "description": "A luxury, adults-only cliffside resort in Big Sur, California."
+      }
+   }
+]

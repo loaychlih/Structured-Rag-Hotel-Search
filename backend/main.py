@@ -117,9 +117,30 @@ def parse_query_to_structured(query: str) -> Optional[Dict]:
             "region": {"type": ["string", "null"]},
             "country": {"type": ["string", "null"]},
             "type": {"type": ["string", "null"]},
-            "atmosphere": {"type": ["string", "null"]},
-            "activities": {"type": "array", "items": {"type": "string"}},
-            "services": {"type": "array", "items": {"type": "string"}},
+            "atmosphere": {
+                "type": ["string", "null"],
+                "enum": [
+                    "Luxury", "Historic", "Family-friendly", "Adventure", "Relaxing", "Business", "Romantic", "Vibrant", "Peaceful", "Rustic", "Tech", "Cultural", "Wellness", "Quirky", "Minimalist", "Party", "Traditional", "Modern", "Unique", "Tranquil", "Lively"
+                ]
+            },
+            "activities": {
+                "type": "array",
+                "items": {
+                    "type": "string",
+                    "enum": [
+                        "Swimming", "Hiking", "Skiing", "Diving", "Dancing", "Music", "Festivals", "Workshops", "Spa", "Cooking", "Sightseeing", "Shopping", "Coding", "Axe-throwing", "Yoga", "Meditation", "Wine tasting", "BBQ", "Samba", "Chocolate making", "Safari", "Beach", "Fitness", "Art", "Gaming", "Movie nights", "Milonga", "Yodeling", "Ski", "Golf", "Biking", "Relaxation", "Business", "Conference", "Family", "Tech", "Nature", "Culinary", "Cultural", "Dance", "Sports", "Music sessions"
+                    ]
+                }
+            },
+            "services": {
+                "type": "array",
+                "items": {
+                    "type": "string",
+                    "enum": [
+                        "Spa", "Restaurant", "Pool", "WiFi", "Parking", "Bar", "Gym", "Conference room", "Breakfast", "Hammam", "Rooftop terrace", "DJ", "Soundproof rooms", "Coffee bar", "Mint tea", "Tagine", "Beach", "Fireplace", "Fiber optic internet", "Work pods", "Massage", "Workshops", "Beer garden", "Movie-themed suites", "Classic car service", "Onsen", "Tatami rooms", "Garden", "Wine cellar", "Bistro", "Ice lounge", "Casino", "Gelato shop", "Pizzeria", "Jazz bar", "Steakhouse", "BBQ", "Sub-zero lounge", "Conference facilities", "Meeting rooms", "Library", "Meditation garden", "Dance studios", "Cafe", "Soundproof work pods", "Red carpet entrance", "Saganaki", "Ouzo", "Animatronic animals", "Wedding venue", "Cognac collection", "Parisian-style bistro"
+                    ]
+                }
+            },
             "best_months": {"type": "array", "items": {"type": "string"}}
         },
         "required": ["region", "country", "type", "atmosphere", "activities", "services", "best_months"],
@@ -139,8 +160,8 @@ Return structured data with these fields:
 - country: Specific country name
 - type: Hotel type (Resort, Hotel, Lodge, Villa, Boutique, etc.)
 - atmosphere: Atmosphere/vibe (Luxury, Romantic, Family-friendly, Adventure, Relaxing, etc.)
-- activities: List of activities (Swimming, Hiking, Skiing, Diving, etc.)
-- services: List of services (Spa, Restaurant, Pool, WiFi, etc.)
+- activities: List of activities (Swimming, Hiking, Skiing, Diving, Gambling, etc.)
+- services: List of services (Spa, casino, Restaurant, Pool, WiFi, etc.)
 - best_months: List of best months to visit
 
 Use null for fields that cannot be determined from the query.
