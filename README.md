@@ -1,4 +1,4 @@
-# Structured RAG Hotel Chatbot
+# Structured RAG Hotel Search (Chatbot)
 
 This app helps you find hotels using AI and advanced search. It uses FastAPI, React, OpenAI, and Qdrant (a vector database) to give you smart, relevant hotel recommendations.
 
